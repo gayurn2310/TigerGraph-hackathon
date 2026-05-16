@@ -4,5 +4,11 @@ __pycache__/
 *.pyc
 .pytest_cache/
 chroma_db/
-results/*.json
+results/
+data/raw/
 data/chunks/
+
+data/raw/
+data/chunks/
+results/
+chroma_db/
