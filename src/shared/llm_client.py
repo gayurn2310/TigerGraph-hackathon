@@ -21,7 +21,7 @@ def call_llm(prompt: str, system_prompt: str = "") -> dict:
         config=types.GenerateContentConfig(
             system_instruction=system_prompt or None,
             temperature=0.1,
-            max_output_tokens=512,
+            max_output_tokens=256,
         ),
     )
 

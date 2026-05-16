@@ -3,14 +3,21 @@ import os
 import sys
 import time
 
-MAX_QUESTIONS = 3
+MAX_QUESTIONS = 1
+SLEEP_SECONDS = 20
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
-from src.llm_only.pipeline import run_query
+from src.llm_only.pipeline import run_query as run_llm_only
+from src.basic_rag.pipeline import run_query as run_basic_rag
 from src.shared.metrics_logger import log_result, get_summary
 
 QUESTIONS_FILE = "data/test_questions.json"
+
+PIPELINES = [
+    ("LLM-Only", run_llm_only),
+    ("Basic RAG", run_basic_rag),
+]
 
 
 def main() -> None:
@@ -19,7 +26,10 @@ def main() -> None:
 
     questions = questions[:MAX_QUESTIONS]
 
-    print(f"Running LLM-only benchmark on {len(questions)} questions")
+    print(
+        f"Running benchmark on {len(questions)} question(s) "
+        f"across {len(PIPELINES)} pipeline(s)"
+    )
 
     for index, item in enumerate(questions, start=1):
         question = item["question"]
@@ -27,21 +37,24 @@ def main() -> None:
 
         print(f"\n[{index}/{len(questions)}] {question}")
 
-        try:
-            result = run_query(question)
-            log_result(question, result, ground_truth=ground_truth)
+        for pipeline_name, pipeline_fn in PIPELINES:
+            print(f"\n  Pipeline: {pipeline_name}")
 
-            print(f"Answer: {result['answer'][:160]}...")
-                       print(
-                f"Tokens: {result['total_tokens']} | "
-                f"Latency: {result['latency_seconds']}s | "
-                f"Cost: ${result['cost_usd']:.8f}"
-            )
+            try:
+                result = pipeline_fn(question)
+                log_result(question, result, ground_truth=ground_truth)
 
-        except Exception as exc:
-            print(f"ERROR: {exc}")
+                print(f"  Answer: {result['answer'][:160]}...")
+                print(
+                    f"  Tokens: {result['total_tokens']} | "
+                    f"Latency: {result['latency_seconds']}s | "
+                    f"Cost: ${result['cost_usd']:.8f}"
+                )
 
-        time.sleep(15)
+            except Exception as exc:
+                print(f"  ERROR: {exc}")
+
+            time.sleep(SLEEP_SECONDS)
 
     print("\nSummary:")
     print(get_summary())
