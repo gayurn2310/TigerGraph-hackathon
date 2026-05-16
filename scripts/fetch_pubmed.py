@@ -5,6 +5,7 @@ Place this file at: graphrag-hackathon/scripts/fetch_pubmed.py
 Usage:
     python scripts/fetch_pubmed.py
     python scripts/fetch_pubmed.py --max-papers 5000 --batch-size 100
+    python scripts/fetch_pubmed.py --max-tokens 5000000
 
 Requirements:
     pip install biopython requests tqdm python-dotenv
@@ -32,6 +33,7 @@ import json
 import time
 import argparse
 import logging
+import html
 from pathlib import Path
 from datetime import datetime
 
@@ -122,6 +124,7 @@ def xml_to_plain_text(xml: str, pmc_id: str) -> dict | None:
     def strip_tags(text: str) -> str:
         """Remove all XML/HTML tags and clean whitespace."""
         text = re.sub(r"<[^>]+>", " ", text)
+        text = html.unescape(text)
         text = re.sub(r"\s+", " ", text)
         return text.strip()
 
@@ -160,9 +163,51 @@ def estimate_tokens(text: str) -> int:
     return len(text) // 4
 
 
+def load_existing_manifest() -> tuple[list[dict], int, list[str]]:
+    """Load the current manifest if present so reruns append instead of reset."""
+    if not MANIFEST.exists():
+        return [], 0, []
+
+    try:
+        data = json.loads(MANIFEST.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        log.warning(f"Could not parse existing manifest at {MANIFEST}; starting fresh")
+        return [], 0, []
+
+    manifest = data.get("papers", [])
+    total_tokens = sum(int(p.get("est_tokens", 0)) for p in manifest)
+    failed = data.get("failed_ids", [])
+    return manifest, total_tokens, failed
+
+
+def add_unmanifested_raw_files(manifest: list[dict], total_tokens: int) -> tuple[list[dict], int]:
+    """Account for raw files that exist locally but are missing from manifest.json."""
+    manifest_ids = {str(p.get("pmc_id", "")) for p in manifest}
+
+    for txt_path in sorted(RAW_DIR.glob("PMC*.txt")):
+        pmc_id = txt_path.stem.removeprefix("PMC")
+        if pmc_id in manifest_ids:
+            continue
+
+        text = txt_path.read_text(encoding="utf-8", errors="ignore")
+        est_tokens = estimate_tokens(text)
+        first_line = next((line.strip() for line in text.splitlines() if line.strip()), "")
+        manifest.append({
+            "pmc_id": pmc_id,
+            "title": first_line[:300],
+            "char_count": len(text),
+            "est_tokens": est_tokens,
+            "file": str(txt_path.relative_to(PROJECT_ROOT)),
+            "fetched_at": datetime.utcnow().isoformat(),
+        })
+        total_tokens += est_tokens
+
+    return manifest, total_tokens
+
+
 # ── Main ───────────────────────────────────────────────────────────────────────
 
-def main(max_papers: int, batch_size: int, delay: float):
+def main(max_papers: int, batch_size: int, delay: float, max_tokens: int):
     log.info("=" * 60)
     log.info("PubMed Central — Alzheimer's Dataset Collector")
     log.info("=" * 60)
@@ -180,17 +225,29 @@ def main(max_papers: int, batch_size: int, delay: float):
     log.info(f"\nTotal unique articles found: {len(all_ids)}")
     log.info(f"Target: {max_papers} papers\n")
 
-    # ── Step 2: Skip already-downloaded files ──
+    # ── Step 2: Load existing manifest + skip already-downloaded files ──
+    manifest, total_tokens, failed = load_existing_manifest()
+    manifest, total_tokens = add_unmanifested_raw_files(manifest, total_tokens)
+
+    if total_tokens >= max_tokens:
+        log.info(
+            f"Existing dataset already has ~{total_tokens:,} tokens, "
+            f"which meets/exceeds the --max-tokens cap ({max_tokens:,})."
+        )
+        _save_manifest(manifest, total_tokens, failed)
+        return
+
     existing = {f.stem for f in RAW_DIR.glob("PMC*.txt")}
     to_fetch  = [i for i in all_ids if f"PMC{i}" not in existing]
     log.info(f"Already downloaded: {len(existing)} | Remaining: {len(to_fetch)}")
+    log.info(f"Current manifest tokens: ~{total_tokens:,} | Cap: ~{max_tokens:,}")
 
     # ── Step 3: Download + extract in batches ──
-    manifest   = []
-    total_tokens = 0
-    failed     = []
-
     for i, pmc_id in enumerate(tqdm(to_fetch, desc="Downloading papers")):
+        if total_tokens >= max_tokens:
+            log.info(f"Token cap reached before next download: ~{total_tokens:,}/{max_tokens:,}")
+            break
+
         xml = fetch_full_text_xml(pmc_id)
 
         if xml is None:
@@ -202,6 +259,13 @@ def main(max_papers: int, batch_size: int, delay: float):
         if parsed is None:
             log.debug(f"  Skipped PMC{pmc_id} — no usable text")
             continue
+
+        if total_tokens + parsed["est_tokens"] > max_tokens:
+            log.info(
+                f"Stopping before PMC{pmc_id}: adding ~{parsed['est_tokens']:,} tokens "
+                f"would exceed cap (~{total_tokens:,}/{max_tokens:,})."
+            )
+            break
 
         # Save plain text file
         out_path = RAW_DIR / f"PMC{pmc_id}.txt"
@@ -280,5 +344,9 @@ if __name__ == "__main__":
         "--delay", type=float, default=0.15,
         help="Seconds between API calls (default: 0.15 with API key)"
     )
+    parser.add_argument(
+        "--max-tokens", type=int, default=5_000_000,
+        help="Stop fetching once the manifest reaches this estimated token count (default: 5,000,000)"
+    )
     args = parser.parse_args()
-    main(args.max_papers, args.batch_size, args.delay)
+    main(args.max_papers, args.batch_size, args.delay, args.max_tokens)

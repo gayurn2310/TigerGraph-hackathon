@@ -12,3 +12,5 @@ data/raw/
 data/chunks/
 results/
 chroma_db/
+
+data/manifest.json

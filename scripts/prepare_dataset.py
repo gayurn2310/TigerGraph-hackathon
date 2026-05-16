@@ -32,6 +32,8 @@ import json
 import re
 import argparse
 import logging
+import html
+import unicodedata
 from pathlib import Path
 from datetime import datetime
 
@@ -56,11 +58,16 @@ def clean_text(text: str) -> str:
     """
     Normalise raw PubMed text:
     - Collapse multiple spaces / newlines
-    - Remove non-printable characters
+    - Decode XML/HTML entities
+    - Preserve meaningful Unicode such as APOE ε4
     - Keep sentence structure intact (important for BERTScore later)
     """
-    # Remove non-printable / control characters
-    text = re.sub(r"[^\x20-\x7E\n]", " ", text)
+    text = html.unescape(text)
+    # Remove control characters while preserving printable Unicode.
+    text = "".join(
+        " " if unicodedata.category(ch).startswith("C") and ch not in "\n\t" else ch
+        for ch in text
+    )
     # Collapse runs of whitespace (but preserve paragraph breaks)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
@@ -88,6 +95,8 @@ def chunk_text(text: str, chunk_size: int, overlap: int) -> list[str]:
     words = text.split()
     if not words:
         return []
+    if overlap >= chunk_size:
+        raise ValueError("overlap must be smaller than chunk_size")
 
     chunks = []
     start  = 0
