@@ -1,0 +1,2408 @@
+{
+  "generated_at": "2026-05-16T07:37:22.895832",
+  "total_papers": 300,
+  "total_est_tokens": 3625723,
+  "failed_ids": [],
+  "papers": [
+    {
+      "pmc_id": "13057344",
+      "title": "Subcutaneous application of Helleborus niger 12x in older patients with dementia\u2014a retrospective cohort study",
+      "char_count": 53162,
+      "est_tokens": 13290,
+      "file": "data/raw/PMC13057344.txt",
+      "fetched_at": "2026-05-16T07:29:54.287530"
+    },
+    {
+      "pmc_id": "13136551",
+      "title": "Investigating Disordered Eating Behaviours Among Individuals Living With Neurodegenerative Disease: A Scoping Review",
+      "char_count": 34315,
+      "est_tokens": 8578,
+      "file": "data/raw/PMC13136551.txt",
+      "fetched_at": "2026-05-16T07:29:55.753484"
+    },
+    {
+      "pmc_id": "13093349",
+      "title": "APOE \u2010mediated sex differences in microvascular pathology and AD\u2010associated proteinopathies in the medial temporal lobe",
+      "char_count": 44374,
+      "est_tokens": 11093,
+      "file": "data/raw/PMC13093349.txt",
+      "fetched_at": "2026-05-16T07:29:57.378249"
+    },
+    {
+      "pmc_id": "12827419",
+      "title": "Deviations from additivity in APOE4 -mediated late-onset Alzheimer\u2019s disease risk across races and ethnicities",
+      "char_count": 27487,
+      "est_tokens": 6871,
+      "file": "data/raw/PMC12827419.txt",
+      "fetched_at": "2026-05-16T07:29:59.013512"
+    },
+    {
+      "pmc_id": "13106560",
+      "title": "Depression as an early symptom and risk factor of dementia - a narrative review",
+      "char_count": 25878,
+      "est_tokens": 6469,
+      "file": "data/raw/PMC13106560.txt",
+      "fetched_at": "2026-05-16T07:29:59.880633"
+    },
+    {
+      "pmc_id": "12911744",
+      "title": "Cognitive and physical exercise to improve outcomes after surgery (COPE-iOS) study: protocol for a randomised, controlled trial in the USA examining the efficacy of a combined cognitive and physical exercise programme performed before and after major surgery in improving cognitive and functional outcomes for older adults",
+      "char_count": 49363,
+      "est_tokens": 12340,
+      "file": "data/raw/PMC12911744.txt",
+      "fetched_at": "2026-05-16T07:30:01.072863"
+    },
+    {
+      "pmc_id": "12834271",
+      "title": "What do European clinical guidelines say about genetic testing for people with neuropsychiatric disorders? A scoping review",
+      "char_count": 51038,
+      "est_tokens": 12759,
+      "file": "data/raw/PMC12834271.txt",
+      "fetched_at": "2026-05-16T07:30:02.705424"
+    },
+    {
+      "pmc_id": "13063509",
+      "title": "Complementary effect of a combined exercise and dietary supplement intervention in individuals with knee osteoarthritis: study protocol for a randomized, double-blind, placebo-controlled trial",
+      "char_count": 49518,
+      "est_tokens": 12379,
+      "file": "data/raw/PMC13063509.txt",
+      "fetched_at": "2026-05-16T07:30:03.870392"
+    },
+    {
+      "pmc_id": "13171465",
+      "title": "Effectiveness of Souvenaid\u00ae combined with acetylcholinesterase inhibitors on caregiver burden in Alzheimer\u00b4s disease",
+      "char_count": 30437,
+      "est_tokens": 7609,
+      "file": "data/raw/PMC13171465.txt",
+      "fetched_at": "2026-05-16T07:30:04.759215"
+    },
+    {
+      "pmc_id": "13147096",
+      "title": "ABSTRACT NUMBER: ESOC2026A1215 PROTEOGENOMIC INTEGRATION REVEALS PARALEMMIN-1 AS A MEDIATOR OF INCREASED INTRACEREBRAL HEMORRHAGE RISK IN APOE \u03954 CARRIERS",
+      "char_count": 2414,
+      "est_tokens": 603,
+      "file": "data/raw/PMC13147096.txt",
+      "fetched_at": "2026-05-16T07:30:05.685475"
+    },
+    {
+      "pmc_id": "13073183",
+      "title": "Artificial Intelligence-Assisted Volumetric Brain Analysis Correlated with CSF Biomarkers in Alzheimer\u2019s Disease: A Pilot Study",
+      "char_count": 36856,
+      "est_tokens": 9214,
+      "file": "data/raw/PMC13073183.txt",
+      "fetched_at": "2026-05-16T07:30:07.326145"
+    },
+    {
+      "pmc_id": "13124650",
+      "title": "GPND\u2010AI NULISA: A 15\u2010Protein AI classifier for diagnosis and co\u2010pathology profiling across neurodegenerative diseases",
+      "char_count": 32763,
+      "est_tokens": 8190,
+      "file": "data/raw/PMC13124650.txt",
+      "fetched_at": "2026-05-16T07:30:08.216788"
+    },
+    {
+      "pmc_id": "13058467",
+      "title": "Biological classification of memory clinic patients",
+      "char_count": 49526,
+      "est_tokens": 12381,
+      "file": "data/raw/PMC13058467.txt",
+      "fetched_at": "2026-05-16T07:30:09.926109"
+    },
+    {
+      "pmc_id": "13151352",
+      "title": "Astrocyte autophagy-pyroptosis crosstalk in Alzheimer\u2019s: insights from knowledge graphs",
+      "char_count": 65619,
+      "est_tokens": 16404,
+      "file": "data/raw/PMC13151352.txt",
+      "fetched_at": "2026-05-16T07:30:11.141711"
+    },
+    {
+      "pmc_id": "13124217",
+      "title": "Artificial intelligence-assisted neuropharmacology: reshaping drug discovery and translational strategies for neurological diseases",
+      "char_count": 56963,
+      "est_tokens": 14240,
+      "file": "data/raw/PMC13124217.txt",
+      "fetched_at": "2026-05-16T07:30:12.847460"
+    },
+    {
+      "pmc_id": "13131855",
+      "title": "Altered cerebrospinal fluid-based clearance mechanisms in aging autistic adults",
+      "char_count": 3310,
+      "est_tokens": 827,
+      "file": "data/raw/PMC13131855.txt",
+      "fetched_at": "2026-05-16T07:30:14.177379"
+    },
+    {
+      "pmc_id": "12867987",
+      "title": "Perivascular pathology, not macrovascular complexity, governs glymphatic-related dysfunction in preclinical cerebral small vessel disease",
+      "char_count": 59875,
+      "est_tokens": 14968,
+      "file": "data/raw/PMC12867987.txt",
+      "fetched_at": "2026-05-16T07:30:16.195930"
+    },
+    {
+      "pmc_id": "13169975",
+      "title": "Early onset Alzheimer\u2019s disease with V180I variant of prion protein gene and a family history of dementia: a case report",
+      "char_count": 14832,
+      "est_tokens": 3708,
+      "file": "data/raw/PMC13169975.txt",
+      "fetched_at": "2026-05-16T07:30:17.650878"
+    },
+    {
+      "pmc_id": "13106089",
+      "title": "Frailty status and the risk of dementia, Alzheimer\u2019s disease: a meta-analysis of observational studies",
+      "char_count": 41939,
+      "est_tokens": 10484,
+      "file": "data/raw/PMC13106089.txt",
+      "fetched_at": "2026-05-16T07:30:18.566404"
+    },
+    {
+      "pmc_id": "13132514",
+      "title": "Differentiating Behavioural Presentations of Biomarker-Confirmed Alzheimer\u2019s Disease from Frontotemporal Lobar Degeneration Using the Addenbrooke\u2019s Cognitive Examination-III",
+      "char_count": 30214,
+      "est_tokens": 7553,
+      "file": "data/raw/PMC13132514.txt",
+      "fetched_at": "2026-05-16T07:30:20.276124"
+    },
+    {
+      "pmc_id": "13105507",
+      "title": "Memantine for Premature Atrial Contractions: A Phase 2 Randomized Clinical Trial",
+      "char_count": 36326,
+      "est_tokens": 9081,
+      "file": "data/raw/PMC13105507.txt",
+      "fetched_at": "2026-05-16T07:30:21.910797"
+    },
+    {
+      "pmc_id": "12823542",
+      "title": "Exercise mitigates Alzheimer\u2019s disease by targeting ferroptosis driven by cellular senescence",
+      "char_count": 73339,
+      "est_tokens": 18334,
+      "file": "data/raw/PMC12823542.txt",
+      "fetched_at": "2026-05-16T07:30:23.567118"
+    },
+    {
+      "pmc_id": "13079164",
+      "title": "TWEAK-Fn14: a promising target for cardio-cerebrovascular diseases and brain-heart syndrome",
+      "char_count": 71106,
+      "est_tokens": 17776,
+      "file": "data/raw/PMC13079164.txt",
+      "fetched_at": "2026-05-16T07:30:26.064407"
+    },
+    {
+      "pmc_id": "13124921",
+      "title": "A new amyloid PET evaluation method using separated gray-matter histogram based on three-component model",
+      "char_count": 31395,
+      "est_tokens": 7848,
+      "file": "data/raw/PMC13124921.txt",
+      "fetched_at": "2026-05-16T07:30:27.518834"
+    },
+    {
+      "pmc_id": "12981904",
+      "title": "The Association between Glaucoma and Dementia in a National Cohort of All of Us Participants",
+      "char_count": 26674,
+      "est_tokens": 6668,
+      "file": "data/raw/PMC12981904.txt",
+      "fetched_at": "2026-05-16T07:30:28.961616"
+    },
+    {
+      "pmc_id": "13133052",
+      "title": "Effect of low-intensity focused ultrasound on hippocampus of alcohol addicted mice: a preliminary study",
+      "char_count": 32615,
+      "est_tokens": 8153,
+      "file": "data/raw/PMC13133052.txt",
+      "fetched_at": "2026-05-16T07:30:30.404305"
+    },
+    {
+      "pmc_id": "13114922",
+      "title": "Ginkgo Biloba for Alzheimer\u2019s Disease: From Mixed Dementia Trials to Biomarker-Confirmed Mild Cognitive Impairment\u2014What Have We Learned over Two Decades, and Is There Finally a Bit of Hope?",
+      "char_count": 36001,
+      "est_tokens": 9000,
+      "file": "data/raw/PMC13114922.txt",
+      "fetched_at": "2026-05-16T07:30:32.139066"
+    },
+    {
+      "pmc_id": "13032277",
+      "title": "Glymphatic dysfunction links vascular pathology to Alzheimer\u2019s biomarkers and cognitive decline",
+      "char_count": 48021,
+      "est_tokens": 12005,
+      "file": "data/raw/PMC13032277.txt",
+      "fetched_at": "2026-05-16T07:30:33.347088"
+    },
+    {
+      "pmc_id": "13091185",
+      "title": "GABRB3 Gene Polymorphisms Influences the Analgesic Response to Acupuncture Treatment in Patients With Chronic Knee Pain: A Randomized Controlled Neuroimaging Transcriptomics Study",
+      "char_count": 58510,
+      "est_tokens": 14627,
+      "file": "data/raw/PMC13091185.txt",
+      "fetched_at": "2026-05-16T07:30:35.887708"
+    },
+    {
+      "pmc_id": "12671564",
+      "title": "Apolipoprotein E \u03b54-dependent associations between carotenoids and cognitive decline: Findings from the MIND (Mediterranean-DASH Intervention for Neurodegenerative delay) randomized controlled trial",
+      "char_count": 32860,
+      "est_tokens": 8215,
+      "file": "data/raw/PMC12671564.txt",
+      "fetched_at": "2026-05-16T07:30:37.289365"
+    },
+    {
+      "pmc_id": "13143922",
+      "title": "Construction of patient trajectories to model clinical trial outcomes: application to myasthenia gravis",
+      "char_count": 46275,
+      "est_tokens": 11568,
+      "file": "data/raw/PMC13143922.txt",
+      "fetched_at": "2026-05-16T07:30:38.490694"
+    },
+    {
+      "pmc_id": "13130801",
+      "title": "Elucidating the phase 1 trial experience among study participants following completion of the INTERCEPT-AD study of sabirnetug (ACU193) for early Alzheimer\u2019s disease: a qualitative interview study",
+      "char_count": 48998,
+      "est_tokens": 12249,
+      "file": "data/raw/PMC13130801.txt",
+      "fetched_at": "2026-05-16T07:30:39.925692"
+    },
+    {
+      "pmc_id": "13102679",
+      "title": "Aging\u2010related matrix metallopeptidase 10 and osteopontin levels are associated with pathology, cognitive decline, and age at onset in Alzheimer's disease",
+      "char_count": 34971,
+      "est_tokens": 8742,
+      "file": "data/raw/PMC13102679.txt",
+      "fetched_at": "2026-05-16T07:30:40.874321"
+    },
+    {
+      "pmc_id": "13100646",
+      "title": "Serum Creatinine Clearance and Cognitive Function in Older Adults: Mediating Effects of Systemic Inflammatory Response Index",
+      "char_count": 50056,
+      "est_tokens": 12514,
+      "file": "data/raw/PMC13100646.txt",
+      "fetched_at": "2026-05-16T07:30:42.567610"
+    },
+    {
+      "pmc_id": "13106595",
+      "title": "A review of risk factors and intervention measures for comorbidity of diabetes and mental disorders",
+      "char_count": 36750,
+      "est_tokens": 9187,
+      "file": "data/raw/PMC13106595.txt",
+      "fetched_at": "2026-05-16T07:30:43.732694"
+    },
+    {
+      "pmc_id": "13156478",
+      "title": "Circulating Sphingomyelins Correlate With Plasma T\u2010Tau in Cognitively Unimpaired Older Adults at Risk of Developing Alzheimer's Disease",
+      "char_count": 54237,
+      "est_tokens": 13559,
+      "file": "data/raw/PMC13156478.txt",
+      "fetched_at": "2026-05-16T07:30:45.535191"
+    },
+    {
+      "pmc_id": "13053938",
+      "title": "STAT4 \u2010dependent regulation of neuroinflammation in atherosclerosis",
+      "char_count": 54463,
+      "est_tokens": 13615,
+      "file": "data/raw/PMC13053938.txt",
+      "fetched_at": "2026-05-16T07:30:47.167146"
+    },
+    {
+      "pmc_id": "12876263",
+      "title": "Evolution of A\u03b242 and A\u03b240 levels and A\u03b242/A\u03b240 ratio in plasma during progression of Alzheimer's disease: A multicenter assessment",
+      "char_count": 13744,
+      "est_tokens": 3436,
+      "file": "data/raw/PMC12876263.txt",
+      "fetched_at": "2026-05-16T07:30:48.056926"
+    },
+    {
+      "pmc_id": "13111357",
+      "title": "EEG hyperscanning in intellectual disability: a scoping review with implications for cognitive stimulation therapy",
+      "char_count": 53306,
+      "est_tokens": 13326,
+      "file": "data/raw/PMC13111357.txt",
+      "fetched_at": "2026-05-16T07:30:49.297920"
+    },
+    {
+      "pmc_id": "13099125",
+      "title": "Conformationally locked 7-aryl tetrahydroisoquinolines as dual acetylcholinesterase inhibitors and antioxidants: role of intramolecular hydrogen bonding and aryl electronics",
+      "char_count": 46941,
+      "est_tokens": 11735,
+      "file": "data/raw/PMC13099125.txt",
+      "fetched_at": "2026-05-16T07:30:51.053136"
+    },
+    {
+      "pmc_id": "13052791",
+      "title": "Neural plasticity impairment in chronic post-surgical hypoparathyroidism: a cross-sectional and prospective pilot study",
+      "char_count": 41301,
+      "est_tokens": 10325,
+      "file": "data/raw/PMC13052791.txt",
+      "fetched_at": "2026-05-16T07:30:51.996163"
+    },
+    {
+      "pmc_id": "13125284",
+      "title": "Increased type 3 deiodinase reduces hippocampal T3 signaling and is associated with cognitive impairment in a sporadic Alzheimer\u2019s disease animal model",
+      "char_count": 40048,
+      "est_tokens": 10012,
+      "file": "data/raw/PMC13125284.txt",
+      "fetched_at": "2026-05-16T07:30:52.883482"
+    },
+    {
+      "pmc_id": "13084768",
+      "title": "Can Sodium Oxybate Mitigate the Symptoms of Schizophrenia?",
+      "char_count": 49431,
+      "est_tokens": 12357,
+      "file": "data/raw/PMC13084768.txt",
+      "fetched_at": "2026-05-16T07:30:56.502793"
+    },
+    {
+      "pmc_id": "13024193",
+      "title": "EEG Time-Frequency Clustering Reveals Spectral Signatures of Glutamatergic and Cholinergic Activities and Their Interrelations",
+      "char_count": 32319,
+      "est_tokens": 8079,
+      "file": "data/raw/PMC13024193.txt",
+      "fetched_at": "2026-05-16T07:30:57.483381"
+    },
+    {
+      "pmc_id": "13174398",
+      "title": "Gene-Modulated Network Diffusion for Improved Modeling of Amyloid- \u03b2 Spread in Alzheimer\u2019s Disease",
+      "char_count": 1552,
+      "est_tokens": 388,
+      "file": "data/raw/PMC13174398.txt",
+      "fetched_at": "2026-05-16T07:30:58.419213"
+    },
+    {
+      "pmc_id": "13088513",
+      "title": "ApoE4 Drives Microglial Lipid Dysregulation in Alzheimer\u2019s Disease via Epigenetic Reprogramming of the Asxl1/LXR\u03b1\u2013H3K4me3 Axis",
+      "char_count": 71759,
+      "est_tokens": 17939,
+      "file": "data/raw/PMC13088513.txt",
+      "fetched_at": "2026-05-16T07:30:59.584780"
+    },
+    {
+      "pmc_id": "11827765",
+      "title": "The Role of Mesenchymal Stem/Stromal Cells and Their Extracellular Vesicles in Rheumatoid Arthritis",
+      "char_count": 15864,
+      "est_tokens": 3966,
+      "file": "data/raw/PMC11827765.txt",
+      "fetched_at": "2026-05-16T07:31:00.472968"
+    },
+    {
+      "pmc_id": "13114755",
+      "title": "Exploring the Biological Potency of Carotenoids Against Alzheimer\u2019s Disease: An Integrated Approach of Molecular Docking and Molecular Dynamics",
+      "char_count": 74925,
+      "est_tokens": 18731,
+      "file": "data/raw/PMC13114755.txt",
+      "fetched_at": "2026-05-16T07:31:01.644071"
+    },
+    {
+      "pmc_id": "13060448",
+      "title": "A unified model for staging amyloid and tau pathology in Alzheimer\u2019s disease",
+      "char_count": 50491,
+      "est_tokens": 12622,
+      "file": "data/raw/PMC13060448.txt",
+      "fetched_at": "2026-05-16T07:31:03.384528"
+    },
+    {
+      "pmc_id": "13109183",
+      "title": "Cardiovascular and glucose-lowering medication use among older adults: results from 9-year follow-up of the FINGER trial",
+      "char_count": 36951,
+      "est_tokens": 9237,
+      "file": "data/raw/PMC13109183.txt",
+      "fetched_at": "2026-05-16T07:31:05.069149"
+    },
+    {
+      "pmc_id": "13108247",
+      "title": "Life course neighborhood conditions and change: a 20\u2010year examination of neighborhood context and associations with Alzheimer's disease biomarkers in late life",
+      "char_count": 41023,
+      "est_tokens": 10255,
+      "file": "data/raw/PMC13108247.txt",
+      "fetched_at": "2026-05-16T07:31:06.672937"
+    },
+    {
+      "pmc_id": "13004737",
+      "title": "The Relationship Between Dietary Sodium Intake and Cognitive Function: A Narrative Review",
+      "char_count": 50314,
+      "est_tokens": 12578,
+      "file": "data/raw/PMC13004737.txt",
+      "fetched_at": "2026-05-16T07:31:07.838651"
+    },
+    {
+      "pmc_id": "13158916",
+      "title": "An Immuno-Infrared Sensor Detects Preclinical Alzheimer\u2019s and Parkinson\u2019s Disease by Protein Misfolding",
+      "char_count": 21215,
+      "est_tokens": 5303,
+      "file": "data/raw/PMC13158916.txt",
+      "fetched_at": "2026-05-16T07:31:09.632663"
+    },
+    {
+      "pmc_id": "7618740",
+      "title": "Early detection of dementia with default-mode network effective connectivity",
+      "char_count": 60474,
+      "est_tokens": 15118,
+      "file": "data/raw/PMC7618740.txt",
+      "fetched_at": "2026-05-16T07:31:10.802018"
+    },
+    {
+      "pmc_id": "12795596",
+      "title": "Dementia, cognitive impairment in Nigerians aged 90 years or older: A 20-year follow up of survivors of Ibadan study of aging cohort",
+      "char_count": 35736,
+      "est_tokens": 8934,
+      "file": "data/raw/PMC12795596.txt",
+      "fetched_at": "2026-05-16T07:31:12.269848"
+    },
+    {
+      "pmc_id": "12811768",
+      "title": "Reinventing \u201cN\u201d in the A/T/N framework: The case for digital",
+      "char_count": 35236,
+      "est_tokens": 8809,
+      "file": "data/raw/PMC12811768.txt",
+      "fetched_at": "2026-05-16T07:31:13.139163"
+    },
+    {
+      "pmc_id": "13159600",
+      "title": "Characterization and evaluation of the ability of graphene quantum dots to affect \u03b1-synuclein aggregation in synucleinopathy models",
+      "char_count": 83140,
+      "est_tokens": 20785,
+      "file": "data/raw/PMC13159600.txt",
+      "fetched_at": "2026-05-16T07:31:14.325897"
+    },
+    {
+      "pmc_id": "13011785",
+      "title": "Clinical and Biological Determinants of Longitudinal Cognitive Function in Patients With GBA1 Variants and Subthalamic Deep Brain Stimulation",
+      "char_count": 43380,
+      "est_tokens": 10845,
+      "file": "data/raw/PMC13011785.txt",
+      "fetched_at": "2026-05-16T07:31:15.921528"
+    },
+    {
+      "pmc_id": "12876286",
+      "title": "Association of long-term adherence to the mind diet with cognitive function and cognitive decline in American women",
+      "char_count": 31876,
+      "est_tokens": 7969,
+      "file": "data/raw/PMC12876286.txt",
+      "fetched_at": "2026-05-16T07:31:17.377551"
+    },
+    {
+      "pmc_id": "13039041",
+      "title": "Network meta-analysis of the efficacy of nine drugs for cognitive function in patients with Alzheimer's disease",
+      "char_count": 48310,
+      "est_tokens": 12077,
+      "file": "data/raw/PMC13039041.txt",
+      "fetched_at": "2026-05-16T07:31:18.328535"
+    },
+    {
+      "pmc_id": "13114741",
+      "title": "Immunosenescence and Inflammaging as Drivers of Neurodegeneration: Cellular Mechanisms, Neuroimmune Crosstalk, and Therapeutic Implications",
+      "char_count": 62611,
+      "est_tokens": 15652,
+      "file": "data/raw/PMC13114741.txt",
+      "fetched_at": "2026-05-16T07:31:20.371723"
+    },
+    {
+      "pmc_id": "13015679",
+      "title": "OpenScientist: evaluating an open agentic AI co-scientist to accelerate biomedical discovery",
+      "char_count": 45569,
+      "est_tokens": 11392,
+      "file": "data/raw/PMC13015679.txt",
+      "fetched_at": "2026-05-16T07:31:21.225909"
+    },
+    {
+      "pmc_id": "13124525",
+      "title": "The complement system in Alzheimer\u2019s disease: mechanisms, biomarkers, and therapeutic implications",
+      "char_count": 63170,
+      "est_tokens": 15792,
+      "file": "data/raw/PMC13124525.txt",
+      "fetched_at": "2026-05-16T07:31:22.981289"
+    },
+    {
+      "pmc_id": "13172923",
+      "title": "499 Data COUNTS in Nebraska and beyond: Connecting CTSA and IDeA-CTR networks for scalable translational science",
+      "char_count": 2064,
+      "est_tokens": 516,
+      "file": "data/raw/PMC13172923.txt",
+      "fetched_at": "2026-05-16T07:31:24.902950"
+    },
+    {
+      "pmc_id": "13124327",
+      "title": "Causality relationship between 91 inflammatory factors and Alzheimer disease: A bidirectional Mendelian randomization study",
+      "char_count": 24873,
+      "est_tokens": 6218,
+      "file": "data/raw/PMC13124327.txt",
+      "fetched_at": "2026-05-16T07:31:26.058086"
+    },
+    {
+      "pmc_id": "13115610",
+      "title": "In Silico Analyses Suggest That Exercise-Induced Irisin-Mediated Neuroprotection Supports Non-Pharmacological Preventive Strategies for Alzheimer\u2019s Disease in Public Health",
+      "char_count": 37094,
+      "est_tokens": 9273,
+      "file": "data/raw/PMC13115610.txt",
+      "fetched_at": "2026-05-16T07:31:27.217530"
+    },
+    {
+      "pmc_id": "13102985",
+      "title": "Fructose-2,6-bisphosphate restores TDP-43 pathology-driven genome repair deficiency in motor neuron diseases",
+      "char_count": 68278,
+      "est_tokens": 17069,
+      "file": "data/raw/PMC13102985.txt",
+      "fetched_at": "2026-05-16T07:31:28.922515"
+    },
+    {
+      "pmc_id": "13095742",
+      "title": "Mechanistic research on the vestibular-hippocampal pathway in neurodegenerative diseases: an integrative perspective from molecular to behavioral levels",
+      "char_count": 63188,
+      "est_tokens": 15797,
+      "file": "data/raw/PMC13095742.txt",
+      "fetched_at": "2026-05-16T07:31:30.626267"
+    },
+    {
+      "pmc_id": "13113163",
+      "title": "Potential Protection Against Parkinson\u2019s Disease by Ergothioneine\u2014Nature\u2019s Multifactorial Neuroprotectant",
+      "char_count": 50978,
+      "est_tokens": 12744,
+      "file": "data/raw/PMC13113163.txt",
+      "fetched_at": "2026-05-16T07:31:32.485019"
+    },
+    {
+      "pmc_id": "13060082",
+      "title": "Rise-and-fall dynamics reveal a molecular and cellular vulnerability axis in prion-like \u03b1 -synuclein propagation",
+      "char_count": 48030,
+      "est_tokens": 12007,
+      "file": "data/raw/PMC13060082.txt",
+      "fetched_at": "2026-05-16T07:31:34.220263"
+    },
+    {
+      "pmc_id": "13142524",
+      "title": "Dissociable species-specific impact of A\u03b2 on static and dynamic functional connectomes",
+      "char_count": 1773,
+      "est_tokens": 443,
+      "file": "data/raw/PMC13142524.txt",
+      "fetched_at": "2026-05-16T07:31:35.130787"
+    },
+    {
+      "pmc_id": "13011762",
+      "title": "Longitudinal multi-modal data prediction model for mild cognitive impairment by deep survival analysis",
+      "char_count": 58344,
+      "est_tokens": 14586,
+      "file": "data/raw/PMC13011762.txt",
+      "fetched_at": "2026-05-16T07:31:36.627789"
+    },
+    {
+      "pmc_id": "13110958",
+      "title": "Effect of traditional Chinese medicine non-pharmacological interventions on cognitive function in patients with mild cognitive impairment: a systematic review and network meta-analysis",
+      "char_count": 35544,
+      "est_tokens": 8886,
+      "file": "data/raw/PMC13110958.txt",
+      "fetched_at": "2026-05-16T07:31:38.349858"
+    },
+    {
+      "pmc_id": "12832955",
+      "title": "Impact of multidomain lifestyle intervention on dynamics of cognitive frailty: post hoc analysis of the FINGER trial",
+      "char_count": 38051,
+      "est_tokens": 9512,
+      "file": "data/raw/PMC12832955.txt",
+      "fetched_at": "2026-05-16T07:31:39.245708"
+    },
+    {
+      "pmc_id": "13028915",
+      "title": "Yixin Yangshen Granules Target HIF\u22121 Signaling to Modulate the Neuroimmune Microenvironment in Alzheimer\u2019s Disease: Insights from Integrative Multi-Omics and Deep Learning",
+      "char_count": 91595,
+      "est_tokens": 22898,
+      "file": "data/raw/PMC13028915.txt",
+      "fetched_at": "2026-05-16T07:31:41.711822"
+    },
+    {
+      "pmc_id": "13154575",
+      "title": "Independent and interactive contributions of white matter hyperintensities and Alzheimer\u2019s disease imaging and plasma biomarkers to cognitive decline in older adults without dementia",
+      "char_count": 53243,
+      "est_tokens": 13310,
+      "file": "data/raw/PMC13154575.txt",
+      "fetched_at": "2026-05-16T07:31:43.435086"
+    },
+    {
+      "pmc_id": "13129084",
+      "title": "The natural flavonoid dihydromyricetin targets senescent cells via PRDX2 and alleviates age-related diseases",
+      "char_count": 93054,
+      "est_tokens": 23263,
+      "file": "data/raw/PMC13129084.txt",
+      "fetched_at": "2026-05-16T07:31:44.627685"
+    },
+    {
+      "pmc_id": "13070963",
+      "title": "Changes in plasma hydrogen sulfide are associated with cognitive improvements in schizophrenia patients treated with atypical antipsychotics",
+      "char_count": 30052,
+      "est_tokens": 7513,
+      "file": "data/raw/PMC13070963.txt",
+      "fetched_at": "2026-05-16T07:31:46.080507"
+    },
+    {
+      "pmc_id": "13135916",
+      "title": "Effects of \u03b1\u2010synuclein pathology on synaptic dysfunction and clinical outcomes in normal aging",
+      "char_count": 36463,
+      "est_tokens": 9115,
+      "file": "data/raw/PMC13135916.txt",
+      "fetched_at": "2026-05-16T07:31:47.698954"
+    },
+    {
+      "pmc_id": "13158152",
+      "title": "Novel insights into early Alzheimer's disease: quantitative gradient recalled echo MRI reveals preatrophic neuronal and myelin injury concurrent with emerging amyloid pathology",
+      "char_count": 41652,
+      "est_tokens": 10413,
+      "file": "data/raw/PMC13158152.txt",
+      "fetched_at": "2026-05-16T07:31:49.404756"
+    },
+    {
+      "pmc_id": "13097393",
+      "title": "Preclinical advances in antibodies against N\u2010terminal A\u03b24\u2010x species for Alzheimer's disease and cerebral amyloid angiopathy",
+      "char_count": 35065,
+      "est_tokens": 8766,
+      "file": "data/raw/PMC13097393.txt",
+      "fetched_at": "2026-05-16T07:31:51.503266"
+    },
+    {
+      "pmc_id": "13108722",
+      "title": "Feasibility of identifying factors related to Alzheimer\u2019s disease and related dementia in real-world data",
+      "char_count": 45232,
+      "est_tokens": 11308,
+      "file": "data/raw/PMC13108722.txt",
+      "fetched_at": "2026-05-16T07:31:53.228686"
+    },
+    {
+      "pmc_id": "13150435",
+      "title": "Ziziphus jujuba Mill. Suspension Ameliorates Scopolamine\u2010Induced Cognitive Impairment via PTGS2\u2010Centered Neuroinflammatory Signaling",
+      "char_count": 88797,
+      "est_tokens": 22199,
+      "file": "data/raw/PMC13150435.txt",
+      "fetched_at": "2026-05-16T07:31:54.437212"
+    },
+    {
+      "pmc_id": "13162845",
+      "title": "The Current Landscape of Adult Neural Stem Cell Research: A Narrative Review",
+      "char_count": 97389,
+      "est_tokens": 24347,
+      "file": "data/raw/PMC13162845.txt",
+      "fetched_at": "2026-05-16T07:31:55.625451"
+    },
+    {
+      "pmc_id": "13116307",
+      "title": "Blood\u2013Brain Network-Based Polygenic Risk Scores Reveal Biomarker Signatures and the Progression of Alzheimer\u2019s Disease",
+      "char_count": 35415,
+      "est_tokens": 8853,
+      "file": "data/raw/PMC13116307.txt",
+      "fetched_at": "2026-05-16T07:31:57.087603"
+    },
+    {
+      "pmc_id": "13088994",
+      "title": "Dementia risk factor assessment in a local Alzheimer\u2019s prevention population: a German cross-sectional, observational study",
+      "char_count": 38949,
+      "est_tokens": 9737,
+      "file": "data/raw/PMC13088994.txt",
+      "fetched_at": "2026-05-16T07:31:58.132101"
+    },
+    {
+      "pmc_id": "13161189",
+      "title": "Lipid transport mechanisms in human ABCA family transporters: a structural perspective",
+      "char_count": 28101,
+      "est_tokens": 7025,
+      "file": "data/raw/PMC13161189.txt",
+      "fetched_at": "2026-05-16T07:31:59.548507"
+    },
+    {
+      "pmc_id": "13165047",
+      "title": "Ingenane Diterpenoids from Euphorbia peplus : Structure Elucidation and Autophagic Flux Activation Activity",
+      "char_count": 30287,
+      "est_tokens": 7571,
+      "file": "data/raw/PMC13165047.txt",
+      "fetched_at": "2026-05-16T07:32:01.177840"
+    },
+    {
+      "pmc_id": "13158812",
+      "title": "Blonanserin transdermal patch for treating delirium: A case series",
+      "char_count": 29341,
+      "est_tokens": 7335,
+      "file": "data/raw/PMC13158812.txt",
+      "fetched_at": "2026-05-16T07:32:02.049981"
+    },
+    {
+      "pmc_id": "12897605",
+      "title": "Assessing the Roles of Aging, Estrogen, Nutrition, and Neuroinflammation in Women and Their Involvement in Alzheimer\u2019s Disease\u2014A Narrative Overview",
+      "char_count": 79187,
+      "est_tokens": 19796,
+      "file": "data/raw/PMC12897605.txt",
+      "fetched_at": "2026-05-16T07:32:03.783277"
+    },
+    {
+      "pmc_id": "13099593",
+      "title": "Amyloid\u2010related imaging abnormalities (ARIA) in anti\u2010amyloid therapies for Alzheimer's disease: An update from the Alzheimer's Association ARIA workgroup",
+      "char_count": 95177,
+      "est_tokens": 23794,
+      "file": "data/raw/PMC13099593.txt",
+      "fetched_at": "2026-05-16T07:32:04.930625"
+    },
+    {
+      "pmc_id": "13023135",
+      "title": "Mapping neurodegeneration with diffusion MRI: biomarkers, mechanisms, and clinical translation",
+      "char_count": 127184,
+      "est_tokens": 31796,
+      "file": "data/raw/PMC13023135.txt",
+      "fetched_at": "2026-05-16T07:32:06.731108"
+    },
+    {
+      "pmc_id": "12964913",
+      "title": "Protective PLCG2 variants associate with a delayed onset of Alzheimer\u2019s disease among heterozygous APOE \u03b54 carriers",
+      "char_count": 39931,
+      "est_tokens": 9982,
+      "file": "data/raw/PMC12964913.txt",
+      "fetched_at": "2026-05-16T07:32:08.072761"
+    },
+    {
+      "pmc_id": "13138851",
+      "title": "Cardiovascular Disease, Cancer and Dementia in Diabetes: 20\u2010Year Trends Will Necessitate New Treatment Priorities",
+      "char_count": 11580,
+      "est_tokens": 2895,
+      "file": "data/raw/PMC13138851.txt",
+      "fetched_at": "2026-05-16T07:32:09.504065"
+    },
+    {
+      "pmc_id": "13105663",
+      "title": "Understanding the Use of Atypical Antipsychotic Treatment for Major Depressive Disorder",
+      "char_count": 42820,
+      "est_tokens": 10705,
+      "file": "data/raw/PMC13105663.txt",
+      "fetched_at": "2026-05-16T07:32:10.988295"
+    },
+    {
+      "pmc_id": "12877787",
+      "title": "Heat therapy in individuals at risk for Alzheimer\u2019s disease\u2014methods for a randomized controlled trial",
+      "char_count": 37029,
+      "est_tokens": 9257,
+      "file": "data/raw/PMC12877787.txt",
+      "fetched_at": "2026-05-16T07:32:11.878431"
+    },
+    {
+      "pmc_id": "13099860",
+      "title": "Emergence of hypomania and mania following initiation of a ketogenic diet: case series",
+      "char_count": 19217,
+      "est_tokens": 4804,
+      "file": "data/raw/PMC13099860.txt",
+      "fetched_at": "2026-05-16T07:32:13.334596"
+    },
+    {
+      "pmc_id": "12964015",
+      "title": "Healthy lifestyle and Alzheimer\u2019s disease in individuals with hyperlipidemia: A prospective cohort study",
+      "char_count": 34795,
+      "est_tokens": 8698,
+      "file": "data/raw/PMC12964015.txt",
+      "fetched_at": "2026-05-16T07:32:14.854969"
+    },
+    {
+      "pmc_id": "13091404",
+      "title": "Independent, but not synergistic, associations of APOE \u03b54 and systemic inflammation on cognitive decline: findings from the Women\u2019s Health Initiative",
+      "char_count": 26816,
+      "est_tokens": 6704,
+      "file": "data/raw/PMC13091404.txt",
+      "fetched_at": "2026-05-16T07:32:16.317255"
+    },
+    {
+      "pmc_id": "13088557",
+      "title": "NOTCH3 Mutations in CADASIL: a multicellular perspective on neurodegeneration",
+      "char_count": 53797,
+      "est_tokens": 13449,
+      "file": "data/raw/PMC13088557.txt",
+      "fetched_at": "2026-05-16T07:32:18.026387"
+    },
+    {
+      "pmc_id": "13109280",
+      "title": "Die Neuropathologin und Hirnforscherin Lieselotte Gerhard (1925\u20132010)",
+      "char_count": 26219,
+      "est_tokens": 6554,
+      "file": "data/raw/PMC13109280.txt",
+      "fetched_at": "2026-05-16T07:32:19.269951"
+    },
+    {
+      "pmc_id": "13170163",
+      "title": "Turning defense into damage: HIV-driven amyloidogenesis and neurotoxicity",
+      "char_count": 28075,
+      "est_tokens": 7018,
+      "file": "data/raw/PMC13170163.txt",
+      "fetched_at": "2026-05-16T07:32:20.401960"
+    },
+    {
+      "pmc_id": "13174659",
+      "title": "Hypoxic burden predicts weaker coordination between brain pulsations and CSF flow independent of non-hypoxic arousals: Implications for glymphatic activity",
+      "char_count": 2812,
+      "est_tokens": 703,
+      "file": "data/raw/PMC13174659.txt",
+      "fetched_at": "2026-05-16T07:32:21.034155"
+    },
+    {
+      "pmc_id": "13104673",
+      "title": "From conceptual design to translational progress: Emerging advances in intelligent microneedles for biomedical applications",
+      "char_count": 167143,
+      "est_tokens": 41785,
+      "file": "data/raw/PMC13104673.txt",
+      "fetched_at": "2026-05-16T07:32:23.584930"
+    },
+    {
+      "pmc_id": "12802861",
+      "title": "Impact of Variation in APOE on Rheumatoid Arthritis, Psoriasis, and Psoriatic Arthritis: Sequencing and Genotyping in General Population Cohorts",
+      "char_count": 34581,
+      "est_tokens": 8645,
+      "file": "data/raw/PMC12802861.txt",
+      "fetched_at": "2026-05-16T07:32:25.203922"
+    },
+    {
+      "pmc_id": "13084528",
+      "title": "Dulaglutide and neurodegeneration biomarkers: REWIND post hoc analysis",
+      "char_count": 33287,
+      "est_tokens": 8321,
+      "file": "data/raw/PMC13084528.txt",
+      "fetched_at": "2026-05-16T07:32:26.851020"
+    },
+    {
+      "pmc_id": "13148032",
+      "title": "From neuroinflammation to neuroprotection: a bibliometric analysis of anesthesia-associated postoperative cognitive dysfunction to guide clinical research (2000\u20132024)",
+      "char_count": 52855,
+      "est_tokens": 13213,
+      "file": "data/raw/PMC13148032.txt",
+      "fetched_at": "2026-05-16T07:32:28.468173"
+    },
+    {
+      "pmc_id": "13119358",
+      "title": "Bridging Genetics and Precision Medicine in Parkinson\u2019s Disease through GP2",
+      "char_count": 22339,
+      "est_tokens": 5584,
+      "file": "data/raw/PMC13119358.txt",
+      "fetched_at": "2026-05-16T07:32:30.188591"
+    },
+    {
+      "pmc_id": "13026856",
+      "title": "Application of Omics Analysis in the Clinical Practice and Research of Transthyretin Amyloidosis",
+      "char_count": 39836,
+      "est_tokens": 9959,
+      "file": "data/raw/PMC13026856.txt",
+      "fetched_at": "2026-05-16T07:32:32.077810"
+    },
+    {
+      "pmc_id": "13159286",
+      "title": "Weekly fluctuations of plasma amyloid-beta in Alzheimer\u2019s disease: implications for biomarker reliability",
+      "char_count": 38850,
+      "est_tokens": 9712,
+      "file": "data/raw/PMC13159286.txt",
+      "fetched_at": "2026-05-16T07:32:33.317755"
+    },
+    {
+      "pmc_id": "13172036",
+      "title": "Correction: EEG-based classification of alzheimer\u2019s disease and frontotemporal dementia using functional connectivity",
+      "char_count": 7192,
+      "est_tokens": 1798,
+      "file": "data/raw/PMC13172036.txt",
+      "fetched_at": "2026-05-16T07:32:34.179919"
+    },
+    {
+      "pmc_id": "12080632",
+      "title": "Minimal clinically important differences for treatment of hallucinations in Parkinson\u2019s disease and dementia with Lewy bodies",
+      "char_count": 33476,
+      "est_tokens": 8369,
+      "file": "data/raw/PMC12080632.txt",
+      "fetched_at": "2026-05-16T07:32:35.716301"
+    },
+    {
+      "pmc_id": "13104335",
+      "title": "Analysis of CGG repeat numbers in the FMR1 gene among women of childbearing age in Northeast Sichuan",
+      "char_count": 15338,
+      "est_tokens": 3834,
+      "file": "data/raw/PMC13104335.txt",
+      "fetched_at": "2026-05-16T07:32:36.679836"
+    },
+    {
+      "pmc_id": "13140501",
+      "title": "Organoid research: new concepts and new technologies",
+      "char_count": 98221,
+      "est_tokens": 24555,
+      "file": "data/raw/PMC13140501.txt",
+      "fetched_at": "2026-05-16T07:32:38.449765"
+    },
+    {
+      "pmc_id": "13093562",
+      "title": "Language deficits across PET\u2010based Braak stages of tau accumulation in Alzheimer's disease",
+      "char_count": 48712,
+      "est_tokens": 12178,
+      "file": "data/raw/PMC13093562.txt",
+      "fetched_at": "2026-05-16T07:32:39.928772"
+    },
+    {
+      "pmc_id": "13110223",
+      "title": "Therapeutic Repurposing of Avanafil Against Lipopolysaccharide-induced Depression and Autoimmune Hepatitis: Gut-brain-liver Axis Orchestration Via Regulation of TLR4/NF-\u03baB/IDO and Nrf2/HO-1 Pathways",
+      "char_count": 57501,
+      "est_tokens": 14375,
+      "file": "data/raw/PMC13110223.txt",
+      "fetched_at": "2026-05-16T07:32:41.069070"
+    },
+    {
+      "pmc_id": "13096013",
+      "title": "Neurofilaments: A Promising Diagnostic and Prognostic Biomarker in Multiple Sclerosis",
+      "char_count": 41772,
+      "est_tokens": 10443,
+      "file": "data/raw/PMC13096013.txt",
+      "fetched_at": "2026-05-16T07:32:42.229186"
+    },
+    {
+      "pmc_id": "13173787",
+      "title": "Targeting the HDAC4-NHE6-endosomal pH axis restores amyloid-\u03b2 clearance and cognitive function in Alzheimer's disease mice",
+      "char_count": 59276,
+      "est_tokens": 14819,
+      "file": "data/raw/PMC13173787.txt",
+      "fetched_at": "2026-05-16T07:32:43.669192"
+    },
+    {
+      "pmc_id": "13095521",
+      "title": "Video consultation for non-acute headache by neurologist is not inferior to traditional consultations in terms of headache consultation rate at follow-up: post hoc analyses of a randomized controlled trial",
+      "char_count": 24871,
+      "est_tokens": 6217,
+      "file": "data/raw/PMC13095521.txt",
+      "fetched_at": "2026-05-16T07:32:45.110305"
+    },
+    {
+      "pmc_id": "12938353",
+      "title": "Traffic-Related Emissions Induce Angiotensin II-Dependent Oxidative Stress in the Hippocampus of ApoE-Null Male Mice",
+      "char_count": 39903,
+      "est_tokens": 9975,
+      "file": "data/raw/PMC12938353.txt",
+      "fetched_at": "2026-05-16T07:32:46.358058"
+    },
+    {
+      "pmc_id": "13130637",
+      "title": "Analysis of GRK2 aggregation in the pathology of Alzheimer disease in animal models",
+      "char_count": 173953,
+      "est_tokens": 43488,
+      "file": "data/raw/PMC13130637.txt",
+      "fetched_at": "2026-05-16T07:32:48.618873"
+    },
+    {
+      "pmc_id": "13056930",
+      "title": "Perivascular spread of CSF-derived \u03b1-synuclein oligomers drives region-specific Parkinson\u2019s-like pathology",
+      "char_count": 60689,
+      "est_tokens": 15172,
+      "file": "data/raw/PMC13056930.txt",
+      "fetched_at": "2026-05-16T07:32:50.613586"
+    },
+    {
+      "pmc_id": "13112872",
+      "title": "Therapeutic effects of 40 Hz light stimulation on clinical and pathological features of Alzheimer\u2019s disease",
+      "char_count": 37822,
+      "est_tokens": 9455,
+      "file": "data/raw/PMC13112872.txt",
+      "fetched_at": "2026-05-16T07:32:52.083636"
+    },
+    {
+      "pmc_id": "12995800",
+      "title": "The APOE paradox: divergent genetic influences on hemorrhagic stroke risk\u2014A meta-analysis",
+      "char_count": 37347,
+      "est_tokens": 9336,
+      "file": "data/raw/PMC12995800.txt",
+      "fetched_at": "2026-05-16T07:32:53.519660"
+    },
+    {
+      "pmc_id": "13131495",
+      "title": "Predictive Cellular Signatures from Live Human Motor Neurons Distinguish TDP-43 ALS and Enable ALS Subtype Stratification",
+      "char_count": 124885,
+      "est_tokens": 31221,
+      "file": "data/raw/PMC13131495.txt",
+      "fetched_at": "2026-05-16T07:32:54.463752"
+    },
+    {
+      "pmc_id": "13096487",
+      "title": "Disulfiram attenuates immobilization-induced knee joint contracture by suppressing Caspase-1/GSDMD-mediated pyroptosis",
+      "char_count": 35190,
+      "est_tokens": 8797,
+      "file": "data/raw/PMC13096487.txt",
+      "fetched_at": "2026-05-16T07:32:55.364695"
+    },
+    {
+      "pmc_id": "13076177",
+      "title": "Daily intake of antioxidants ameliorates PM 2.5 -induced neuronal injury in mice",
+      "char_count": 32323,
+      "est_tokens": 8080,
+      "file": "data/raw/PMC13076177.txt",
+      "fetched_at": "2026-05-16T07:32:56.969913"
+    },
+    {
+      "pmc_id": "13129882",
+      "title": "Plasma Biomarkers and Clinical Outcomes in Early-Onset Dementia",
+      "char_count": 31019,
+      "est_tokens": 7754,
+      "file": "data/raw/PMC13129882.txt",
+      "fetched_at": "2026-05-16T07:32:58.113811"
+    },
+    {
+      "pmc_id": "13150028",
+      "title": "Using an integrated omics approach to uncover the mechanisms underlying chemotherapy-induced peripheral neuropathy (CIPN)",
+      "char_count": 71604,
+      "est_tokens": 17901,
+      "file": "data/raw/PMC13150028.txt",
+      "fetched_at": "2026-05-16T07:32:59.859980"
+    },
+    {
+      "pmc_id": "13141679",
+      "title": "Non\u2010Invasive Temporal Interference Electrical Stimulation Modulates Neurotransmitter Release and Improves Aberrant Neural Oscillations in Alzheimer's Disease",
+      "char_count": 40966,
+      "est_tokens": 10241,
+      "file": "data/raw/PMC13141679.txt",
+      "fetched_at": "2026-05-16T07:33:00.768033"
+    },
+    {
+      "pmc_id": "13060405",
+      "title": "Estimating tau onset age from tau PET imaging in two longitudinal cohorts using sampled iterative local approximation",
+      "char_count": 42586,
+      "est_tokens": 10646,
+      "file": "data/raw/PMC13060405.txt",
+      "fetched_at": "2026-05-16T07:33:02.234865"
+    },
+    {
+      "pmc_id": "13111706",
+      "title": "Naringenin-loaded nanoparticles ameliorate scopolamine-induced neurotoxicity",
+      "char_count": 94655,
+      "est_tokens": 23663,
+      "file": "data/raw/PMC13111706.txt",
+      "fetched_at": "2026-05-16T07:33:05.081281"
+    },
+    {
+      "pmc_id": "13172025",
+      "title": "Spatiotemporal brain transcriptomics reveal risk gene hot-spots in major neuropsychiatric disorders",
+      "char_count": 78286,
+      "est_tokens": 19571,
+      "file": "data/raw/PMC13172025.txt",
+      "fetched_at": "2026-05-16T07:33:07.612649"
+    },
+    {
+      "pmc_id": "13143991",
+      "title": "Social engagement, pleasure, and memory in musical reminiscence workshops for individuals with Alzheimer\u2019s disease",
+      "char_count": 42866,
+      "est_tokens": 10716,
+      "file": "data/raw/PMC13143991.txt",
+      "fetched_at": "2026-05-16T07:33:08.910290"
+    },
+    {
+      "pmc_id": "13015401",
+      "title": "Optineurin is a gatekeeper of mitochondrial health and proteostasis in Alzheimer\u2019s disease vulnerable neurons",
+      "char_count": 34663,
+      "est_tokens": 8665,
+      "file": "data/raw/PMC13015401.txt",
+      "fetched_at": "2026-05-16T07:33:10.088080"
+    },
+    {
+      "pmc_id": "12811769",
+      "title": "Effect of obicetrapib, a potent cholesteryl ester transfer protein inhibitor, on p-tau217 levels in patients with cardiovascular disease",
+      "char_count": 55215,
+      "est_tokens": 13803,
+      "file": "data/raw/PMC12811769.txt",
+      "fetched_at": "2026-05-16T07:33:11.322604"
+    },
+    {
+      "pmc_id": "13169892",
+      "title": "AI-enabled digital phenotyping for Alzheimer\u2019s disease: a review of multimodal sensor integration and symptom trajectories",
+      "char_count": 67223,
+      "est_tokens": 16805,
+      "file": "data/raw/PMC13169892.txt",
+      "fetched_at": "2026-05-16T07:33:13.117191"
+    },
+    {
+      "pmc_id": "12932704",
+      "title": "Individual sedentary activities and cognitive function in middle-aged and older adults: A systematic review",
+      "char_count": 138895,
+      "est_tokens": 34723,
+      "file": "data/raw/PMC12932704.txt",
+      "fetched_at": "2026-05-16T07:33:15.139613"
+    },
+    {
+      "pmc_id": "13150776",
+      "title": "The association between chronotype and incident dementia: exploring age, educational-attainment and sex differences",
+      "char_count": 28929,
+      "est_tokens": 7232,
+      "file": "data/raw/PMC13150776.txt",
+      "fetched_at": "2026-05-16T07:33:16.642852"
+    },
+    {
+      "pmc_id": "12963535",
+      "title": "Biomarker-integrated prognostic stagings for Alzheimer\u2019s Disease",
+      "char_count": 47127,
+      "est_tokens": 11781,
+      "file": "data/raw/PMC12963535.txt",
+      "fetched_at": "2026-05-16T07:33:18.382727"
+    },
+    {
+      "pmc_id": "13081963",
+      "title": "Dysregulation of Hippo Signaling Pathway as a Convergent Mechanism Underlying Choroid Plexus Defects in Bipolar Disorder",
+      "char_count": 63505,
+      "est_tokens": 15876,
+      "file": "data/raw/PMC13081963.txt",
+      "fetched_at": "2026-05-16T07:33:20.253093"
+    },
+    {
+      "pmc_id": "13099594",
+      "title": "Divergent patterns of cognitive decline in preclinical Alzheimer's disease: Implications for secondary prevention trials",
+      "char_count": 42375,
+      "est_tokens": 10593,
+      "file": "data/raw/PMC13099594.txt",
+      "fetched_at": "2026-05-16T07:33:21.779916"
+    },
+    {
+      "pmc_id": "13072965",
+      "title": "DPP6 Loss Causes Age-Dependent Sleep Dysregulation and Depression-like Phenotypes Linked to Neurodegeneration",
+      "char_count": 43458,
+      "est_tokens": 10864,
+      "file": "data/raw/PMC13072965.txt",
+      "fetched_at": "2026-05-16T07:33:23.053457"
+    },
+    {
+      "pmc_id": "12785463",
+      "title": "The Impact of Air Pollution and Obesity on Cognitive Decline and Risk of Alzheimer\u2019s Disease",
+      "char_count": 45130,
+      "est_tokens": 11282,
+      "file": "data/raw/PMC12785463.txt",
+      "fetched_at": "2026-05-16T07:33:24.930357"
+    },
+    {
+      "pmc_id": "13164289",
+      "title": "Fructose Intake Is Associated with Brain Metabolic Reprogramming and Exacerbation of Alzheimer-like Alterations in APP/PS1 Mice",
+      "char_count": 46367,
+      "est_tokens": 11591,
+      "file": "data/raw/PMC13164289.txt",
+      "fetched_at": "2026-05-16T07:33:26.215060"
+    },
+    {
+      "pmc_id": "13029159",
+      "title": "Dietary Bioactives in Alzheimer\u2019s Disease: A Critical Appraisal of Clinical Trials and Future Nutritional Strategies",
+      "char_count": 91676,
+      "est_tokens": 22919,
+      "file": "data/raw/PMC13029159.txt",
+      "fetched_at": "2026-05-16T07:33:29.524719"
+    },
+    {
+      "pmc_id": "13081738",
+      "title": "Dissecting medial temporal lobe from diencephalic sub-volumes: The amnesia dichotomy revisited",
+      "char_count": 53753,
+      "est_tokens": 13438,
+      "file": "data/raw/PMC13081738.txt",
+      "fetched_at": "2026-05-16T07:33:31.627954"
+    },
+    {
+      "pmc_id": "13092601",
+      "title": "Hypolipidemics reduce the rate of Alzheimer's disease development and dementia progression: A cohort study linked with genetic and neuropathological analyses",
+      "char_count": 48886,
+      "est_tokens": 12221,
+      "file": "data/raw/PMC13092601.txt",
+      "fetched_at": "2026-05-16T07:33:33.664604"
+    },
+    {
+      "pmc_id": "13100369",
+      "title": "Efficacy and safety of apomorphine in the treatment of Parkinson\u2019s disease: a systematic review and meta-analysis of randomized controlled trials",
+      "char_count": 43987,
+      "est_tokens": 10996,
+      "file": "data/raw/PMC13100369.txt",
+      "fetched_at": "2026-05-16T07:33:35.122061"
+    },
+    {
+      "pmc_id": "12968454",
+      "title": "Impact of APOE \u03b54 Genotype Load on Cognitive Function and Lipid Metabolism in Patients With Cerebral Small Vessel Disease",
+      "char_count": 44352,
+      "est_tokens": 11088,
+      "file": "data/raw/PMC12968454.txt",
+      "fetched_at": "2026-05-16T07:33:36.298634"
+    },
+    {
+      "pmc_id": "13132682",
+      "title": "Development and validation of MethylCog, a blood DNA methylation proxy for cognition",
+      "char_count": 59371,
+      "est_tokens": 14842,
+      "file": "data/raw/PMC13132682.txt",
+      "fetched_at": "2026-05-16T07:33:38.089684"
+    },
+    {
+      "pmc_id": "13167506",
+      "title": "The oral - X axis: from periodontal dysbiosis to systemic disease",
+      "char_count": 67339,
+      "est_tokens": 16834,
+      "file": "data/raw/PMC13167506.txt",
+      "fetched_at": "2026-05-16T07:33:39.661091"
+    },
+    {
+      "pmc_id": "13058221",
+      "title": "Porphyromonas gingivalis Promotes Neuroinflammation by Microglial Ferroptosis via NOX4/PPAR-\u03b1/PGC-1\u03b1 Pathway",
+      "char_count": 48498,
+      "est_tokens": 12124,
+      "file": "data/raw/PMC13058221.txt",
+      "fetched_at": "2026-05-16T07:33:41.046737"
+    },
+    {
+      "pmc_id": "13173766",
+      "title": "Objective diagnosis and treatment outcome prediction in major depressive disorder based on a machine learning framework with dried-serum NIRS digital biomarkers",
+      "char_count": 44737,
+      "est_tokens": 11184,
+      "file": "data/raw/PMC13173766.txt",
+      "fetched_at": "2026-05-16T07:33:42.364771"
+    },
+    {
+      "pmc_id": "13024051",
+      "title": "Effects and Mechanisms of Probiotics, Prebiotics, Synbiotics, and Postbiotics for the Prevention and Management of Alzheimer\u2019s Disease: A Narrative Review",
+      "char_count": 51825,
+      "est_tokens": 12956,
+      "file": "data/raw/PMC13024051.txt",
+      "fetched_at": "2026-05-16T07:33:43.732642"
+    },
+    {
+      "pmc_id": "13137278",
+      "title": "circPDE4B downregulation triggers GEMIN5\u2011dependent translational stress response and autophagy to reduce MAPT pathology",
+      "char_count": 76986,
+      "est_tokens": 19246,
+      "file": "data/raw/PMC13137278.txt",
+      "fetched_at": "2026-05-16T07:33:46.509222"
+    },
+    {
+      "pmc_id": "12892697",
+      "title": "Vascular risk factors, alcohol intake, and cognitive decline",
+      "char_count": 25990,
+      "est_tokens": 6497,
+      "file": "data/raw/PMC12892697.txt",
+      "fetched_at": "2026-05-16T07:33:48.103423"
+    },
+    {
+      "pmc_id": "13131464",
+      "title": "Epigenetically constrained astrocyte states underlie prefrontal cortex vulnerability in Down syndrome\u2013associated Alzheimer\u2019s disease",
+      "char_count": 71671,
+      "est_tokens": 17917,
+      "file": "data/raw/PMC13131464.txt",
+      "fetched_at": "2026-05-16T07:33:50.324175"
+    },
+    {
+      "pmc_id": "13051131",
+      "title": "Efficacy and Safety of TESTOPEAK \u2122 in Improving Symptoms of Andropause in Korean Men: An 8-Week, Single-Center, Randomized, Parallel-Group, Placebo-Controlled Trial",
+      "char_count": 29299,
+      "est_tokens": 7324,
+      "file": "data/raw/PMC13051131.txt",
+      "fetched_at": "2026-05-16T07:33:51.266329"
+    },
+    {
+      "pmc_id": "12086573",
+      "title": "RILP cleavage links an inflammatory state to enhanced tau propagation in a cell culture model of Alzheimer's disease",
+      "char_count": 32296,
+      "est_tokens": 8074,
+      "file": "data/raw/PMC12086573.txt",
+      "fetched_at": "2026-05-16T07:33:52.156522"
+    },
+    {
+      "pmc_id": "13141245",
+      "title": "Development of a community home-based dual-supplier cooperation care model for people with dementia based on an intelligent decision-assistance system: protocol of a 1-year randomised controlled trial in China",
+      "char_count": 37056,
+      "est_tokens": 9264,
+      "file": "data/raw/PMC13141245.txt",
+      "fetched_at": "2026-05-16T07:33:53.086975"
+    },
+    {
+      "pmc_id": "13153039",
+      "title": "Pyroptosis in epilepsy: from pathophysiological mechanisms to therapeutic strategies",
+      "char_count": 52100,
+      "est_tokens": 13025,
+      "file": "data/raw/PMC13153039.txt",
+      "fetched_at": "2026-05-16T07:33:54.278221"
+    },
+    {
+      "pmc_id": "13162331",
+      "title": "Evaluation of conductivity tensor image along the perivascular space in the brains of patients with cognitive impairments",
+      "char_count": 47894,
+      "est_tokens": 11973,
+      "file": "data/raw/PMC13162331.txt",
+      "fetched_at": "2026-05-16T07:33:56.031309"
+    },
+    {
+      "pmc_id": "12880398",
+      "title": "The role of adiponectin in Alzheimer\u2019s disease: A translational review",
+      "char_count": 40031,
+      "est_tokens": 10007,
+      "file": "data/raw/PMC12880398.txt",
+      "fetched_at": "2026-05-16T07:33:57.677713"
+    },
+    {
+      "pmc_id": "13106788",
+      "title": "Blood Levels of Homocysteine Predict Cardiovascular Events, but Not Alzheimer Disease Dementia, during a 4.7-year Follow-up in Patients with Vascular Risk Factors",
+      "char_count": 23293,
+      "est_tokens": 5823,
+      "file": "data/raw/PMC13106788.txt",
+      "fetched_at": "2026-05-16T07:33:59.133989"
+    },
+    {
+      "pmc_id": "13067549",
+      "title": "Evaluating the efficacy of dual-task training in older patients with chronic heart failure and comorbid cognitive frailty: a protocol for a randomized controlled trial",
+      "char_count": 36519,
+      "est_tokens": 9129,
+      "file": "data/raw/PMC13067549.txt",
+      "fetched_at": "2026-05-16T07:34:00.770097"
+    },
+    {
+      "pmc_id": "13053238",
+      "title": "Repeated lower extremities hot water bathing (REHAB), a rehabilitative strategy in Parkinson's disease (PD) patients with sleep disorders: rationale, design and protocol for a randomized controlled study",
+      "char_count": 25243,
+      "est_tokens": 6310,
+      "file": "data/raw/PMC13053238.txt",
+      "fetched_at": "2026-05-16T07:34:02.239910"
+    },
+    {
+      "pmc_id": "13039072",
+      "title": "Characteristics of publicly available digital dementia risk screening tools: A scoping review",
+      "char_count": 42504,
+      "est_tokens": 10626,
+      "file": "data/raw/PMC13039072.txt",
+      "fetched_at": "2026-05-16T07:34:04.916811"
+    },
+    {
+      "pmc_id": "13128343",
+      "title": "Characterizing circadian rest\u2013activity rhythm patterns across Alzheimer's disease continuum in Down syndrome",
+      "char_count": 43632,
+      "est_tokens": 10908,
+      "file": "data/raw/PMC13128343.txt",
+      "fetched_at": "2026-05-16T07:34:06.584878"
+    },
+    {
+      "pmc_id": "13088086",
+      "title": "Current research progress on extracellular vesicles derived from mesenchymal stem cells in tuberculosis treatment (Review)",
+      "char_count": 40446,
+      "est_tokens": 10111,
+      "file": "data/raw/PMC13088086.txt",
+      "fetched_at": "2026-05-16T07:34:08.349345"
+    },
+    {
+      "pmc_id": "13135479",
+      "title": "Human brain small extracellular vesicles contain selectively packaged, full-length mRNA",
+      "char_count": 54315,
+      "est_tokens": 13578,
+      "file": "data/raw/PMC13135479.txt",
+      "fetched_at": "2026-05-16T07:34:10.576045"
+    },
+    {
+      "pmc_id": "12947704",
+      "title": "Vitamin deficiencies and Alzheimer\u2019s disease: evidence and implications for supplementation",
+      "char_count": 103629,
+      "est_tokens": 25907,
+      "file": "data/raw/PMC12947704.txt",
+      "fetched_at": "2026-05-16T07:34:12.513484"
+    },
+    {
+      "pmc_id": "12836003",
+      "title": "Genetic insights into coronary heart disease in the Teochew population: Bridging gaps in precision medicine",
+      "char_count": 16144,
+      "est_tokens": 4036,
+      "file": "data/raw/PMC12836003.txt",
+      "fetched_at": "2026-05-16T07:34:13.954090"
+    },
+    {
+      "pmc_id": "12823931",
+      "title": "Aperiodic EEG signatures: unveiling the interplay between APOE \u03b54 and mild cognitive impairment subtypes",
+      "char_count": 48897,
+      "est_tokens": 12224,
+      "file": "data/raw/PMC12823931.txt",
+      "fetched_at": "2026-05-16T07:34:15.576862"
+    },
+    {
+      "pmc_id": "13149217",
+      "title": "Peripheral oxidative stress related biomarkers in Alzheimer's disease: A systematic review of their implications for diagnosis and disease monitoring",
+      "char_count": 64848,
+      "est_tokens": 16212,
+      "file": "data/raw/PMC13149217.txt",
+      "fetched_at": "2026-05-16T07:34:17.381397"
+    },
+    {
+      "pmc_id": "12972151",
+      "title": "Mitochondrial dysfunction in peripheral mononuclear blood cells (PBMC) of individuals with mild cognitive impairment",
+      "char_count": 39675,
+      "est_tokens": 9918,
+      "file": "data/raw/PMC12972151.txt",
+      "fetched_at": "2026-05-16T07:34:19.066313"
+    },
+    {
+      "pmc_id": "13091360",
+      "title": "Distinct metabolic signatures of Alzheimer's and Parkinson's disease revealed through genetic overlap",
+      "char_count": 46182,
+      "est_tokens": 11545,
+      "file": "data/raw/PMC13091360.txt",
+      "fetched_at": "2026-05-16T07:34:20.315615"
+    },
+    {
+      "pmc_id": "13067200",
+      "title": "The I\u2010Learn Cognition and Behavior program for non\u2010pharmacological treatment of agitation in nursing home residents with neurocognitive disorders: A cluster randomized trial",
+      "char_count": 34286,
+      "est_tokens": 8571,
+      "file": "data/raw/PMC13067200.txt",
+      "fetched_at": "2026-05-16T07:34:21.892217"
+    },
+    {
+      "pmc_id": "13087914",
+      "title": "Integrating Biomaterials and Genome Editing Approaches to Advance Biomedical Science",
+      "char_count": 42562,
+      "est_tokens": 10640,
+      "file": "data/raw/PMC13087914.txt",
+      "fetched_at": "2026-05-16T07:34:23.689582"
+    },
+    {
+      "pmc_id": "12968472",
+      "title": "The neuromodulatory fragility hypothesis of Alzheimer's disease pathogenesis",
+      "char_count": 37633,
+      "est_tokens": 9408,
+      "file": "data/raw/PMC12968472.txt",
+      "fetched_at": "2026-05-16T07:34:25.328524"
+    },
+    {
+      "pmc_id": "13158142",
+      "title": "Rethinking Alzheimer's disease susceptibility and heterogeneity. Comment on Miller et al.",
+      "char_count": 7076,
+      "est_tokens": 1769,
+      "file": "data/raw/PMC13158142.txt",
+      "fetched_at": "2026-05-16T07:34:26.390773"
+    },
+    {
+      "pmc_id": "13093339",
+      "title": "Accelerating real\u2010world prediction and research in Alzheimer's: The M3AD study",
+      "char_count": 44763,
+      "est_tokens": 11190,
+      "file": "data/raw/PMC13093339.txt",
+      "fetched_at": "2026-05-16T07:34:28.276475"
+    },
+    {
+      "pmc_id": "13171464",
+      "title": "Mandarin speech\u2010based early detection of SCD: a feature\u2010fusion residual network method",
+      "char_count": 48057,
+      "est_tokens": 12014,
+      "file": "data/raw/PMC13171464.txt",
+      "fetched_at": "2026-05-16T07:34:29.460656"
+    },
+    {
+      "pmc_id": "12941123",
+      "title": "Targeting the Biology of Aging in Cerebrovascular Disease: Inflammation, Metabolism, Senescence, and Regeneration",
+      "char_count": 92737,
+      "est_tokens": 23184,
+      "file": "data/raw/PMC12941123.txt",
+      "fetched_at": "2026-05-16T07:34:31.257914"
+    },
+    {
+      "pmc_id": "13111334",
+      "title": "Plasma chaperone-mediated autophagy associated protein HSPA8 combined with white matter hyperintensities serves as the predictive marker of early-stage Alzheimer\u2019s disease",
+      "char_count": 35850,
+      "est_tokens": 8962,
+      "file": "data/raw/PMC13111334.txt",
+      "fetched_at": "2026-05-16T07:34:32.474515"
+    },
+    {
+      "pmc_id": "13081995",
+      "title": "A multi-omic atlas in the African turquoise killifish reveals increased glucocorticoid signaling as a hallmark of brain aging",
+      "char_count": 139606,
+      "est_tokens": 34901,
+      "file": "data/raw/PMC13081995.txt",
+      "fetched_at": "2026-05-16T07:34:34.421221"
+    },
+    {
+      "pmc_id": "13095927",
+      "title": "Multiple Adverse Outcomes Associated with Risperidone in People with Dementia: An Individual Participant Data Meta-Analysis",
+      "char_count": 35624,
+      "est_tokens": 8906,
+      "file": "data/raw/PMC13095927.txt",
+      "fetched_at": "2026-05-16T07:34:35.690257"
+    },
+    {
+      "pmc_id": "12830891",
+      "title": "Assessing outer retinal and choroidal changes in scd: potential for high-risk screening using SS-OCTA",
+      "char_count": 38677,
+      "est_tokens": 9669,
+      "file": "data/raw/PMC12830891.txt",
+      "fetched_at": "2026-05-16T07:34:36.929124"
+    },
+    {
+      "pmc_id": "13071171",
+      "title": "Associations between parental history of dementia and plasma markers of inflammation in a multi\u2010ethnic middle\u2010aged community of adults",
+      "char_count": 32972,
+      "est_tokens": 8243,
+      "file": "data/raw/PMC13071171.txt",
+      "fetched_at": "2026-05-16T07:34:38.280312"
+    },
+    {
+      "pmc_id": "13148090",
+      "title": "Impact of infrared moxibustion for patients with mild hyperlipidemia: a protocol for a randomized controlled trial",
+      "char_count": 33302,
+      "est_tokens": 8325,
+      "file": "data/raw/PMC13148090.txt",
+      "fetched_at": "2026-05-16T07:34:39.953849"
+    },
+    {
+      "pmc_id": "13171878",
+      "title": "Preoperative frontal EEG power spectral features associated with psychomotor subtypes of postoperative delirium in cardiovascular surgery: a prospective study",
+      "char_count": 28387,
+      "est_tokens": 7096,
+      "file": "data/raw/PMC13171878.txt",
+      "fetched_at": "2026-05-16T07:34:41.445805"
+    },
+    {
+      "pmc_id": "12783905",
+      "title": "Lifestyle and health signatures of brain pathological and cognitive aging",
+      "char_count": 2593,
+      "est_tokens": 648,
+      "file": "data/raw/PMC12783905.txt",
+      "fetched_at": "2026-05-16T07:34:42.104594"
+    },
+    {
+      "pmc_id": "12625973",
+      "title": "Predicted molecules followed by experimental validation for protecting human neurons from oxidative stress\u2013induced cytotoxicity",
+      "char_count": 41899,
+      "est_tokens": 10474,
+      "file": "data/raw/PMC12625973.txt",
+      "fetched_at": "2026-05-16T07:34:43.288143"
+    },
+    {
+      "pmc_id": "13150412",
+      "title": "Oral Health in Alzheimer's Disease: A Life\u2010Course Perspective on Clinical Management and Caregiver Support",
+      "char_count": 32409,
+      "est_tokens": 8102,
+      "file": "data/raw/PMC13150412.txt",
+      "fetched_at": "2026-05-16T07:34:44.270365"
+    },
+    {
+      "pmc_id": "13040028",
+      "title": "The role of the oxytocinergic system in oral microbiome composition in children with autism: evidence from a randomized controlled trial of intranasal oxytocin",
+      "char_count": 48352,
+      "est_tokens": 12088,
+      "file": "data/raw/PMC13040028.txt",
+      "fetched_at": "2026-05-16T07:34:45.523947"
+    },
+    {
+      "pmc_id": "13162517",
+      "title": "Calbindin-D28k deficiency mediates tau-driven hippocampal hyperexcitement and cognitive impairment",
+      "char_count": 59140,
+      "est_tokens": 14785,
+      "file": "data/raw/PMC13162517.txt",
+      "fetched_at": "2026-05-16T07:34:47.318946"
+    },
+    {
+      "pmc_id": "13165002",
+      "title": "Natural Products as a Pipeline for Next-Generation Neurodegenerative Drugs: From Single-Target Failure to Multi-Target Opportunity in Alzheimer\u2019s and Parkinson\u2019s Disease",
+      "char_count": 55508,
+      "est_tokens": 13877,
+      "file": "data/raw/PMC13165002.txt",
+      "fetched_at": "2026-05-16T07:34:48.589148"
+    },
+    {
+      "pmc_id": "13127162",
+      "title": "The effect of exogenous ketone bodies on cognition across health and disease: a systematic review and meta-analysis",
+      "char_count": 61830,
+      "est_tokens": 15457,
+      "file": "data/raw/PMC13127162.txt",
+      "fetched_at": "2026-05-16T07:34:49.670682"
+    },
+    {
+      "pmc_id": "13105931",
+      "title": "Research progress in neuroimaging of sporadic early-onset Alzheimer\u2019s disease",
+      "char_count": 38527,
+      "est_tokens": 9631,
+      "file": "data/raw/PMC13105931.txt",
+      "fetched_at": "2026-05-16T07:34:50.902823"
+    },
+    {
+      "pmc_id": "13086476",
+      "title": "AQP4 Drives Gliotic Changes in an APPPS1 Mouse Model of Alzheimer\u2019s Disease",
+      "char_count": 24714,
+      "est_tokens": 6178,
+      "file": "data/raw/PMC13086476.txt",
+      "fetched_at": "2026-05-16T07:34:51.928171"
+    },
+    {
+      "pmc_id": "12957698",
+      "title": "Immunometabolism Reframes Alzheimer\u2019s Disease: From Systemic Dysmetabolism to Glial Rewiring",
+      "char_count": 82459,
+      "est_tokens": 20614,
+      "file": "data/raw/PMC12957698.txt",
+      "fetched_at": "2026-05-16T07:34:53.668558"
+    },
+    {
+      "pmc_id": "12972175",
+      "title": "Life-course body shape trajectories and cerebral oxygen metabolism in community-dwelling older adults",
+      "char_count": 39310,
+      "est_tokens": 9827,
+      "file": "data/raw/PMC12972175.txt",
+      "fetched_at": "2026-05-16T07:34:55.681716"
+    },
+    {
+      "pmc_id": "13020844",
+      "title": "APOE 4 and doxorubicin impair inhibitory interneuron function and homeostatic regulation in the entorhinal cortex",
+      "char_count": 51894,
+      "est_tokens": 12973,
+      "file": "data/raw/PMC13020844.txt",
+      "fetched_at": "2026-05-16T07:34:56.947510"
+    },
+    {
+      "pmc_id": "13062124",
+      "title": "Parkinson's disease: pathogenesis and therapeutic strategies",
+      "char_count": 84849,
+      "est_tokens": 21212,
+      "file": "data/raw/PMC13062124.txt",
+      "fetched_at": "2026-05-16T07:34:58.209033"
+    },
+    {
+      "pmc_id": "13118828",
+      "title": "Cholinesterase Inhibitory Activity of Alkylated Quinobenzothiazinium Salts",
+      "char_count": 48906,
+      "est_tokens": 12226,
+      "file": "data/raw/PMC13118828.txt",
+      "fetched_at": "2026-05-16T07:34:59.707402"
+    },
+    {
+      "pmc_id": "13083798",
+      "title": "Dissecting microglial contributions to neurodegenerative disease pathophysiology using human pluripotent stem cells",
+      "char_count": 80362,
+      "est_tokens": 20090,
+      "file": "data/raw/PMC13083798.txt",
+      "fetched_at": "2026-05-16T07:35:01.593668"
+    },
+    {
+      "pmc_id": "13144632",
+      "title": "Disease modifying treatments for Alzheimer's disease: Clinician perspectives",
+      "char_count": 16759,
+      "est_tokens": 4189,
+      "file": "data/raw/PMC13144632.txt",
+      "fetched_at": "2026-05-16T07:35:02.640606"
+    },
+    {
+      "pmc_id": "12924284",
+      "title": "BMI changes from midlife to late life and their relationship with Alzheimer\u2019s disease pathologies",
+      "char_count": 33428,
+      "est_tokens": 8357,
+      "file": "data/raw/PMC12924284.txt",
+      "fetched_at": "2026-05-16T07:35:04.952228"
+    },
+    {
+      "pmc_id": "13140711",
+      "title": "Associations between sleep disturbance and cerebrospinal fluid A\u03b2, and shared proteomic signatures in Alzheimer's disease",
+      "char_count": 59403,
+      "est_tokens": 14850,
+      "file": "data/raw/PMC13140711.txt",
+      "fetched_at": "2026-05-16T07:35:06.592354"
+    },
+    {
+      "pmc_id": "13132375",
+      "title": "Smoldering in the sanctuary: HIV-associated brain injury in the ART era",
+      "char_count": 44883,
+      "est_tokens": 11220,
+      "file": "data/raw/PMC13132375.txt",
+      "fetched_at": "2026-05-16T07:35:07.758357"
+    },
+    {
+      "pmc_id": "13053464",
+      "title": "Contribution of health history and neuropathologic changes to the likelihood of dementia in those with intermediate/high Alzheimer\u2019s pathology: findings from The 90 + Study",
+      "char_count": 52074,
+      "est_tokens": 13018,
+      "file": "data/raw/PMC13053464.txt",
+      "fetched_at": "2026-05-16T07:35:09.499287"
+    },
+    {
+      "pmc_id": "12126788",
+      "title": "Next-generation replication-defective HSV vectors for delivery of large DNA payloads",
+      "char_count": 41306,
+      "est_tokens": 10326,
+      "file": "data/raw/PMC12126788.txt",
+      "fetched_at": "2026-05-16T07:35:10.743950"
+    },
+    {
+      "pmc_id": "13064704",
+      "title": "How antipsychotics work in schizophrenia: a primer on mechanisms",
+      "char_count": 30523,
+      "est_tokens": 7630,
+      "file": "data/raw/PMC13064704.txt",
+      "fetched_at": "2026-05-16T07:35:12.252434"
+    },
+    {
+      "pmc_id": "13079063",
+      "title": "Anti\u2010amyloid antibody equilibrium binding to A\u03b2 aggregates from human Alzheimer's disease brain",
+      "char_count": 42363,
+      "est_tokens": 10590,
+      "file": "data/raw/PMC13079063.txt",
+      "fetched_at": "2026-05-16T07:35:13.303431"
+    },
+    {
+      "pmc_id": "13109672",
+      "title": "Molecular Dynamics Study of the Binding of Cationic, Anionic, and Neutral Luminescent Conjugated Ligands to the Alzheimer Folds of A \u03b2 (1\u201342) and Tau Fibrils",
+      "char_count": 32401,
+      "est_tokens": 8100,
+      "file": "data/raw/PMC13109672.txt",
+      "fetched_at": "2026-05-16T07:35:14.824971"
+    },
+    {
+      "pmc_id": "12995784",
+      "title": "Modulation of apolipoprotein E receptor-2 by ApoE4, amyloid \u03b2-peptide, reelin, and secreted amyloid precursor protein: a common point of impact in Alzheimer\u2019s disease pathogenesis",
+      "char_count": 48970,
+      "est_tokens": 12242,
+      "file": "data/raw/PMC12995784.txt",
+      "fetched_at": "2026-05-16T07:35:17.120769"
+    },
+    {
+      "pmc_id": "13073043",
+      "title": "Beyond Glycemic Control: GLP-1RA\u2013Based Therapies and Emerging Targets Beyond the Metabolic Axis",
+      "char_count": 59770,
+      "est_tokens": 14942,
+      "file": "data/raw/PMC13073043.txt",
+      "fetched_at": "2026-05-16T07:35:19.020772"
+    },
+    {
+      "pmc_id": "13140407",
+      "title": "Mechanistic Investigation of Exercise Interventions in Rodent Models of Alzheimer\u2019s Disease and Prospects for Clinical Translation",
+      "char_count": 73083,
+      "est_tokens": 18270,
+      "file": "data/raw/PMC13140407.txt",
+      "fetched_at": "2026-05-16T07:35:20.865453"
+    },
+    {
+      "pmc_id": "13018506",
+      "title": "Perivascular fluid clearance links choroid plexus changes to cognitive performance in cerebral small vessel disease",
+      "char_count": 45542,
+      "est_tokens": 11385,
+      "file": "data/raw/PMC13018506.txt",
+      "fetched_at": "2026-05-16T07:35:22.509637"
+    },
+    {
+      "pmc_id": "13124601",
+      "title": "Mediterranean, MIND, and ketogenic diets in Alzheimer's disease: mechanistic coherence and clinical uncertainty",
+      "char_count": 20243,
+      "est_tokens": 5060,
+      "file": "data/raw/PMC13124601.txt",
+      "fetched_at": "2026-05-16T07:35:24.347076"
+    },
+    {
+      "pmc_id": "12790588",
+      "title": "A computational genetic- and transcriptomics-based study nominates drug repurposing candidates for the treatment of chronic pain",
+      "char_count": 49799,
+      "est_tokens": 12449,
+      "file": "data/raw/PMC12790588.txt",
+      "fetched_at": "2026-05-16T07:35:25.609071"
+    },
+    {
+      "pmc_id": "13090369",
+      "title": "Dysfunction of the episodic memory network in the Alzheimer\u2019s disease cascade",
+      "char_count": 71320,
+      "est_tokens": 17830,
+      "file": "data/raw/PMC13090369.txt",
+      "fetched_at": "2026-05-16T07:35:27.513033"
+    },
+    {
+      "pmc_id": "12938431",
+      "title": "Radiation-Induced Neurodegeneration",
+      "char_count": 99073,
+      "est_tokens": 24768,
+      "file": "data/raw/PMC12938431.txt",
+      "fetched_at": "2026-05-16T07:35:29.627593"
+    },
+    {
+      "pmc_id": "13110021",
+      "title": "Research Progress on Pathology, Molecular Mechanisms, and Intervention Strategies of Cognitive Dysfunction Associated with Type 2 Diabetes",
+      "char_count": 102745,
+      "est_tokens": 25686,
+      "file": "data/raw/PMC13110021.txt",
+      "fetched_at": "2026-05-16T07:35:31.511763"
+    },
+    {
+      "pmc_id": "13060799",
+      "title": "c-MYC is an aggregation-prone, amyloidogenic protein",
+      "char_count": 1272,
+      "est_tokens": 318,
+      "file": "data/raw/PMC13060799.txt",
+      "fetched_at": "2026-05-16T07:35:33.057461"
+    },
+    {
+      "pmc_id": "13168759",
+      "title": "A Systems-Level Transcriptomic Framework Identifies Shared Cellular Hubs in Osteoarthritis and Alzheimer\u2019s Disease",
+      "char_count": 51126,
+      "est_tokens": 12781,
+      "file": "data/raw/PMC13168759.txt",
+      "fetched_at": "2026-05-16T07:35:34.585863"
+    },
+    {
+      "pmc_id": "12970968",
+      "title": "The genetic architecture of postoperative delirium after major surgery and its relationship with nonpostoperative neurocognitive conditions: A genome-wide association study",
+      "char_count": 33169,
+      "est_tokens": 8292,
+      "file": "data/raw/PMC12970968.txt",
+      "fetched_at": "2026-05-16T07:35:35.594704"
+    },
+    {
+      "pmc_id": "13033966",
+      "title": "Inhibition of the NLRP3 Inflammasome With MCC950 Improves Gut Health in Huntington's Disease Mice",
+      "char_count": 91900,
+      "est_tokens": 22975,
+      "file": "data/raw/PMC13033966.txt",
+      "fetched_at": "2026-05-16T07:35:36.879063"
+    },
+    {
+      "pmc_id": "13114177",
+      "title": "Brain Delivery of Antibody-Derived Biologicals for Alzheimer\u2019s Disease: An Updated Narrative Review",
+      "char_count": 30389,
+      "est_tokens": 7597,
+      "file": "data/raw/PMC13114177.txt",
+      "fetched_at": "2026-05-16T07:35:38.568161"
+    },
+    {
+      "pmc_id": "13142631",
+      "title": "MEF2C controls lysosomal and lipid clearance programs linked to Alzheimer\u2019s disease risk in macrophages",
+      "char_count": 1490,
+      "est_tokens": 372,
+      "file": "data/raw/PMC13142631.txt",
+      "fetched_at": "2026-05-16T07:35:39.333652"
+    },
+    {
+      "pmc_id": "13065639",
+      "title": "Efficacy of Transcranial Alternating Current Stimulation (tACS) for Treating Hallucinations: A Systematic Review and Meta-analysis",
+      "char_count": 40290,
+      "est_tokens": 10072,
+      "file": "data/raw/PMC13065639.txt",
+      "fetched_at": "2026-05-16T07:35:40.925943"
+    },
+    {
+      "pmc_id": "12937726",
+      "title": "ACE-Dependent Alzheimer\u2019s Disease: Blood ACE Phenotyping of the Most Prevalent and Damaging ACE Missense Mutation\u2014Y215C (rs3730025)",
+      "char_count": 58152,
+      "est_tokens": 14538,
+      "file": "data/raw/PMC12937726.txt",
+      "fetched_at": "2026-05-16T07:35:42.248889"
+    },
+    {
+      "pmc_id": "13076369",
+      "title": "Artemisinin attenuates 3-nitropropionic acid-induced neurodegeneration via HMGB1/TLR4/NF-\u03baB modulation in a rat model of huntington\u2019s disease",
+      "char_count": 48600,
+      "est_tokens": 12150,
+      "file": "data/raw/PMC13076369.txt",
+      "fetched_at": "2026-05-16T07:35:44.031022"
+    },
+    {
+      "pmc_id": "13142537",
+      "title": "Spatial Single-Cell Proteomics Reveals Molecular Trajectories Of Tangle-Bearing Neurons In Alzheimer\u2019s Disease",
+      "char_count": 2021,
+      "est_tokens": 505,
+      "file": "data/raw/PMC13142537.txt",
+      "fetched_at": "2026-05-16T07:35:45.249872"
+    },
+    {
+      "pmc_id": "12835543",
+      "title": "Identifying Susceptibility Genes and Shared Genetic Architecture for Longevity and Muscle Weakness",
+      "char_count": 52388,
+      "est_tokens": 13097,
+      "file": "data/raw/PMC12835543.txt",
+      "fetched_at": "2026-05-16T07:35:46.442005"
+    },
+    {
+      "pmc_id": "13077199",
+      "title": "The Relationship Between Neutrophil/Lymphocyte Ratio and the Progression and Clinical Features of Alzheimer's Disease",
+      "char_count": 23478,
+      "est_tokens": 5869,
+      "file": "data/raw/PMC13077199.txt",
+      "fetched_at": "2026-05-16T07:35:47.968442"
+    },
+    {
+      "pmc_id": "13062330",
+      "title": "Molecular mechanisms underlying Parkinson\u2019s disease and role of phytochemicals, \u03b1-synuclein, sirtuins, and incretin mimetics in potential therapy",
+      "char_count": 68538,
+      "est_tokens": 17134,
+      "file": "data/raw/PMC13062330.txt",
+      "fetched_at": "2026-05-16T07:35:50.088695"
+    },
+    {
+      "pmc_id": "13119006",
+      "title": "Targeting Pain and Depression in Alzheimer\u2019s Disease: Translational Insights and Emerging Treatments",
+      "char_count": 39386,
+      "est_tokens": 9846,
+      "file": "data/raw/PMC13119006.txt",
+      "fetched_at": "2026-05-16T07:35:51.861488"
+    },
+    {
+      "pmc_id": "13174335",
+      "title": "A diagnostic plasma omics-biomarker for Alzheimer\u2019s disease informed by microglial single-cell transcriptomics: A pilot study",
+      "char_count": 1947,
+      "est_tokens": 486,
+      "file": "data/raw/PMC13174335.txt",
+      "fetched_at": "2026-05-16T07:35:52.785030"
+    },
+    {
+      "pmc_id": "13126401",
+      "title": "Navigating the Tumor Microenvironment in Colorectal Liver Metastasis: Barriers to Therapy and Emerging Opportunities",
+      "char_count": 53604,
+      "est_tokens": 13401,
+      "file": "data/raw/PMC13126401.txt",
+      "fetched_at": "2026-05-16T07:35:54.584594"
+    },
+    {
+      "pmc_id": "11968119",
+      "title": "Gray and white matter differences in the medial temporal lobe in late-life depression: a multimodal PET-MRI investigation",
+      "char_count": 30625,
+      "est_tokens": 7656,
+      "file": "data/raw/PMC11968119.txt",
+      "fetched_at": "2026-05-16T07:35:56.123217"
+    },
+    {
+      "pmc_id": "13072248",
+      "title": "Beyond Feature Selection: Interpretable Machine Learning for Mechanistic Insights in Metabolomics",
+      "char_count": 40525,
+      "est_tokens": 10131,
+      "file": "data/raw/PMC13072248.txt",
+      "fetched_at": "2026-05-16T07:35:57.387853"
+    },
+    {
+      "pmc_id": "12835333",
+      "title": "Sex differences in APOE- and PICALM-related cognitive profiles in healthy middle-aged adults",
+      "char_count": 50893,
+      "est_tokens": 12723,
+      "file": "data/raw/PMC12835333.txt",
+      "fetched_at": "2026-05-16T07:35:59.270727"
+    },
+    {
+      "pmc_id": "13158137",
+      "title": "Single\u2010cell transcriptomic analysis reveals APOE genotype\u2010dependent sex differences in Alzheimer's disease",
+      "char_count": 53417,
+      "est_tokens": 13354,
+      "file": "data/raw/PMC13158137.txt",
+      "fetched_at": "2026-05-16T07:36:00.493273"
+    },
+    {
+      "pmc_id": "13119208",
+      "title": "Cyclodextrin-Based Strategies for Brain Drug Delivery: Mechanistic Insights into Blood\u2013Brain Barrier Transport and Therapeutic Applications",
+      "char_count": 92412,
+      "est_tokens": 23103,
+      "file": "data/raw/PMC13119208.txt",
+      "fetched_at": "2026-05-16T07:36:01.891569"
+    },
+    {
+      "pmc_id": "13119441",
+      "title": "Linking Chemical Profile to Enzyme Inhibition: A Comprehensive Bio-Guided Study of Lippia origanoides Kunth Essential Oil",
+      "char_count": 44999,
+      "est_tokens": 11249,
+      "file": "data/raw/PMC13119441.txt",
+      "fetched_at": "2026-05-16T07:36:04.750164"
+    },
+    {
+      "pmc_id": "12889836",
+      "title": "Cerebrospinal fluid proteomic signatures reveal APOE genotype-dependent lipid and immune profiles in cognitively unimpaired elderly",
+      "char_count": 33663,
+      "est_tokens": 8415,
+      "file": "data/raw/PMC12889836.txt",
+      "fetched_at": "2026-05-16T07:36:06.005836"
+    },
+    {
+      "pmc_id": "13140911",
+      "title": "Activation of GPR35 in the Anterior Cingulate Cortex Alleviates Neuropathic Pain and Depression\u2010Related Behavior",
+      "char_count": 51077,
+      "est_tokens": 12769,
+      "file": "data/raw/PMC13140911.txt",
+      "fetched_at": "2026-05-16T07:36:07.485288"
+    },
+    {
+      "pmc_id": "13115222",
+      "title": "Mapping the Digital Mind: A Meta-Analysis of EEG Biomarkers in Cognition, Emotion, and Mental Health",
+      "char_count": 108015,
+      "est_tokens": 27003,
+      "file": "data/raw/PMC13115222.txt",
+      "fetched_at": "2026-05-16T07:36:09.041580"
+    },
+    {
+      "pmc_id": "13081842",
+      "title": "WDR44 drives de novo \u03b1-synuclein aggregation at the lysosomal membrane and promotes neuronal dysfunction in Parkinson\u2019s Disease",
+      "char_count": 103370,
+      "est_tokens": 25842,
+      "file": "data/raw/PMC13081842.txt",
+      "fetched_at": "2026-05-16T07:36:11.152387"
+    },
+    {
+      "pmc_id": "12842209",
+      "title": "Apolipoprotein E4 in Alzheimer\u2019s Disease: Role in Pathology, Lipid Metabolism, and Drug Treatment",
+      "char_count": 57240,
+      "est_tokens": 14310,
+      "file": "data/raw/PMC12842209.txt",
+      "fetched_at": "2026-05-16T07:36:12.351860"
+    },
+    {
+      "pmc_id": "13151870",
+      "title": "Tongxinluo capsule in the treatment of cerebral small vessel disease: protocol of a randomised, double-blind, placebo-controlled, multicentre clinical study (TOPS-CSVD)",
+      "char_count": 30243,
+      "est_tokens": 7560,
+      "file": "data/raw/PMC13151870.txt",
+      "fetched_at": "2026-05-16T07:36:14.050574"
+    },
+    {
+      "pmc_id": "13137405",
+      "title": "Co\u2010pathologies and biological processes beyond amyloid\u2010beta and tau in people with Alzheimer's disease: Evidence from clinical cohort studies",
+      "char_count": 48883,
+      "est_tokens": 12220,
+      "file": "data/raw/PMC13137405.txt",
+      "fetched_at": "2026-05-16T07:36:15.845923"
+    },
+    {
+      "pmc_id": "13089386",
+      "title": "Night\u2010to\u2010night rapid eye movement sleep variability: A relevant marker of early amyloid\u2010\u03b2 deposition",
+      "char_count": 52245,
+      "est_tokens": 13061,
+      "file": "data/raw/PMC13089386.txt",
+      "fetched_at": "2026-05-16T07:36:17.060552"
+    },
+    {
+      "pmc_id": "13157695",
+      "title": "Exploring Knowledge and Awareness of Lewy Body Dementia Among Staff in Long-Term Care Facilities",
+      "char_count": 33761,
+      "est_tokens": 8440,
+      "file": "data/raw/PMC13157695.txt",
+      "fetched_at": "2026-05-16T07:36:18.561820"
+    },
+    {
+      "pmc_id": "12875074",
+      "title": "Selected Genes Associated With CVD-Related Diseases, Pathways, and Nutrigenetics",
+      "char_count": 50753,
+      "est_tokens": 12688,
+      "file": "data/raw/PMC12875074.txt",
+      "fetched_at": "2026-05-16T07:36:19.775218"
+    },
+    {
+      "pmc_id": "13121706",
+      "title": "Multimodal framework for the joint analysis of single-cell RNA and T cell receptor sequencing data predicts T cell response to cancer immunotherapy",
+      "char_count": 80168,
+      "est_tokens": 20042,
+      "file": "data/raw/PMC13121706.txt",
+      "fetched_at": "2026-05-16T07:36:21.259059"
+    },
+    {
+      "pmc_id": "12898547",
+      "title": "Reduced Plasma A\u03b2 Peptides but Stable NfL and GFAP in Major Depressive Disorder",
+      "char_count": 39460,
+      "est_tokens": 9865,
+      "file": "data/raw/PMC12898547.txt",
+      "fetched_at": "2026-05-16T07:36:22.743214"
+    },
+    {
+      "pmc_id": "12094657",
+      "title": "Characterizing pleiotropy among bipolar disorder, schizophrenia, and major depression: a genome-wide cross-disorder meta-analysis",
+      "char_count": 36240,
+      "est_tokens": 9060,
+      "file": "data/raw/PMC12094657.txt",
+      "fetched_at": "2026-05-16T07:36:24.163312"
+    },
+    {
+      "pmc_id": "13099819",
+      "title": "Exercise-induced GPLD1 is associated with neuroprotection and improvement of hippocampal dysfunction in an Alzheimer\u2019s disease model",
+      "char_count": 54853,
+      "est_tokens": 13713,
+      "file": "data/raw/PMC13099819.txt",
+      "fetched_at": "2026-05-16T07:36:25.971226"
+    },
+    {
+      "pmc_id": "13158362",
+      "title": "Tuning excitatory input to fast-spiking parvalbumin-positive interneurons: a lever for plasticity and hyperexcitability across the lifespan",
+      "char_count": 23872,
+      "est_tokens": 5968,
+      "file": "data/raw/PMC13158362.txt",
+      "fetched_at": "2026-05-16T07:36:26.868144"
+    },
+    {
+      "pmc_id": "13013397",
+      "title": "Simultaneous multiple post-labelling delay ASL MRI and [ 18 F]FDG PET in a mixed memory clinic population and healthy controls",
+      "char_count": 40305,
+      "est_tokens": 10076,
+      "file": "data/raw/PMC13013397.txt",
+      "fetched_at": "2026-05-16T07:36:28.085251"
+    },
+    {
+      "pmc_id": "13015379",
+      "title": "Multi-omics characterization of vascular, neurodegenerative, and mixed neuropathology in the aging human brain",
+      "char_count": 41065,
+      "est_tokens": 10266,
+      "file": "data/raw/PMC13015379.txt",
+      "fetched_at": "2026-05-16T07:36:29.032155"
+    },
+    {
+      "pmc_id": "13116483",
+      "title": "Impact of Oxidative Stress-Driven Ferroptosis in Neurodegeneration",
+      "char_count": 47898,
+      "est_tokens": 11974,
+      "file": "data/raw/PMC13116483.txt",
+      "fetched_at": "2026-05-16T07:36:30.823812"
+    },
+    {
+      "pmc_id": "13063766",
+      "title": "MALDI mass spectrometry imaging (MSI) reveals molecular and structural heterogeneity of amyloid-\u03b2 in sporadic Alzheimer\u2019s disease and Down syndrome",
+      "char_count": 40480,
+      "est_tokens": 10120,
+      "file": "data/raw/PMC13063766.txt",
+      "fetched_at": "2026-05-16T07:36:32.481933"
+    },
+    {
+      "pmc_id": "13012215",
+      "title": "Distinct neuroinflammatory profiles in progressive supranuclear palsy associated with HLA haplotypes",
+      "char_count": 7295,
+      "est_tokens": 1823,
+      "file": "data/raw/PMC13012215.txt",
+      "fetched_at": "2026-05-16T07:36:34.040802"
+    },
+    {
+      "pmc_id": "13121301",
+      "title": "Immersive virtual reality as a novel approach to improve social cognition in multiple sclerosis: an EEG-based pilot study",
+      "char_count": 63530,
+      "est_tokens": 15882,
+      "file": "data/raw/PMC13121301.txt",
+      "fetched_at": "2026-05-16T07:36:34.957765"
+    },
+    {
+      "pmc_id": "13114904",
+      "title": "Outer Membrane Vesicles as Systems-Level Drivers of Neuroinflammation, Metabolic Dysfunction, and Proteinopathy in Alzheimer\u2019s Disease",
+      "char_count": 79778,
+      "est_tokens": 19944,
+      "file": "data/raw/PMC13114904.txt",
+      "fetched_at": "2026-05-16T07:36:36.475015"
+    },
+    {
+      "pmc_id": "13140987",
+      "title": "Evaluating the Effect of National Background Check Program on Nursing Home Deficiency Citations",
+      "char_count": 40679,
+      "est_tokens": 10169,
+      "file": "data/raw/PMC13140987.txt",
+      "fetched_at": "2026-05-16T07:36:37.419712"
+    },
+    {
+      "pmc_id": "13167703",
+      "title": "Interchangeability of CSF and PET to identify Alzheimer's disease pathology",
+      "char_count": 33063,
+      "est_tokens": 8265,
+      "file": "data/raw/PMC13167703.txt",
+      "fetched_at": "2026-05-16T07:36:38.339817"
+    },
+    {
+      "pmc_id": "13011791",
+      "title": "Refining Detection of Subclinical Epileptiform Activity in Alzheimer's Disease: A Case\u2013Control Study and Call for a Consensus",
+      "char_count": 41815,
+      "est_tokens": 10453,
+      "file": "data/raw/PMC13011791.txt",
+      "fetched_at": "2026-05-16T07:36:39.515620"
+    },
+    {
+      "pmc_id": "13076664",
+      "title": "Machine-learning prediction and risk stratification of 12-month cognitive decline in Alzheimer\u2019s disease using routine clinical and MRI data",
+      "char_count": 34310,
+      "est_tokens": 8577,
+      "file": "data/raw/PMC13076664.txt",
+      "fetched_at": "2026-05-16T07:36:40.976732"
+    },
+    {
+      "pmc_id": "13073327",
+      "title": "Targeting Non-Coding RNAs as a Potential Therapeutic and Delivery Strategy Against Neurodegenerative Diseases",
+      "char_count": 30750,
+      "est_tokens": 7687,
+      "file": "data/raw/PMC13073327.txt",
+      "fetched_at": "2026-05-16T07:36:42.184995"
+    },
+    {
+      "pmc_id": "13083807",
+      "title": "3D Vessels-on-Chip using isogenic hiPSC-derived VSMCs reveal NOTCH3-driven alterations in brain small vessel disease",
+      "char_count": 44775,
+      "est_tokens": 11193,
+      "file": "data/raw/PMC13083807.txt",
+      "fetched_at": "2026-05-16T07:36:43.335322"
+    },
+    {
+      "pmc_id": "12907639",
+      "title": "Evaluation of plasma p-tau217 biomarkers in detecting amyloid pathology and predicting cognitive outcomes: Observations from Japanese Alzheimer\u2019s disease neuroimaging initiative cohort",
+      "char_count": 38470,
+      "est_tokens": 9617,
+      "file": "data/raw/PMC12907639.txt",
+      "fetched_at": "2026-05-16T07:36:44.971051"
+    },
+    {
+      "pmc_id": "13162674",
+      "title": "Early M\u00fcller Glial Activation and Retinal Ganglion Cell Synaptic Dysfunction in APP/PS1 Mice",
+      "char_count": 41214,
+      "est_tokens": 10303,
+      "file": "data/raw/PMC13162674.txt",
+      "fetched_at": "2026-05-16T07:36:46.609236"
+    },
+    {
+      "pmc_id": "13170660",
+      "title": "IgLON5 autoimmune antibodies activate Tau via neuronal hyperactivity",
+      "char_count": 93466,
+      "est_tokens": 23366,
+      "file": "data/raw/PMC13170660.txt",
+      "fetched_at": "2026-05-16T07:36:49.210030"
+    },
+    {
+      "pmc_id": "13175129",
+      "title": "Associations Between ACO Enrollment Status and Drug and Nondrug Costs Among Older Adults Newly Diagnosed With ADRD",
+      "char_count": 26120,
+      "est_tokens": 6530,
+      "file": "data/raw/PMC13175129.txt",
+      "fetched_at": "2026-05-16T07:36:50.085761"
+    },
+    {
+      "pmc_id": "13149973",
+      "title": "Alzheimer\u2019s Disease blood biomarkers measured through remote capillary sampling correlate with cognition in older adults",
+      "char_count": 29989,
+      "est_tokens": 7497,
+      "file": "data/raw/PMC13149973.txt",
+      "fetched_at": "2026-05-16T07:36:51.601010"
+    },
+    {
+      "pmc_id": "13123017",
+      "title": "Clinical, neuroimaging, and biomarker profiling of four Alzheimer\u2019s disease pedigrees caused by pathogenic APP variants",
+      "char_count": 66837,
+      "est_tokens": 16709,
+      "file": "data/raw/PMC13123017.txt",
+      "fetched_at": "2026-05-16T07:36:52.863768"
+    },
+    {
+      "pmc_id": "13162231",
+      "title": "Selective reduction of KCNA4 in vulnerable glutamatergic\u2013serotonin neurons of the dorsal raphe nucleus in Alzheimer's disease",
+      "char_count": 60999,
+      "est_tokens": 15249,
+      "file": "data/raw/PMC13162231.txt",
+      "fetched_at": "2026-05-16T07:36:55.206638"
+    },
+    {
+      "pmc_id": "13057414",
+      "title": "Mannosylated nanocarriers: a precision targeting strategy for tumors and infectious diseases",
+      "char_count": 127911,
+      "est_tokens": 31977,
+      "file": "data/raw/PMC13057414.txt",
+      "fetched_at": "2026-05-16T07:36:58.357618"
+    },
+    {
+      "pmc_id": "13115727",
+      "title": "Alzheimer\u2019s Spinal Pathology: Neuronal, Glial, and Cholesterol Metabolic Changes in Female and Male 5xFAD Mice",
+      "char_count": 40540,
+      "est_tokens": 10135,
+      "file": "data/raw/PMC13115727.txt",
+      "fetched_at": "2026-05-16T07:36:59.576515"
+    },
+    {
+      "pmc_id": "12863040",
+      "title": "Exploring biomarkers of neurodegenerative risk: associations of oxysterols, sex hormones, and reproductive characteristics in older women",
+      "char_count": 42997,
+      "est_tokens": 10749,
+      "file": "data/raw/PMC12863040.txt",
+      "fetched_at": "2026-05-16T07:37:00.531310"
+    },
+    {
+      "pmc_id": "13092600",
+      "title": "Oxylipin composition of high-density lipoprotein is altered in men and Hispanic adults with mild cognitive impairment",
+      "char_count": 47962,
+      "est_tokens": 11990,
+      "file": "data/raw/PMC13092600.txt",
+      "fetched_at": "2026-05-16T07:37:01.676428"
+    },
+    {
+      "pmc_id": "13064730",
+      "title": "From betel nuts to Cobenfy: how an ancient recreational drug gave rise to a new class of schizophrenia medications",
+      "char_count": 30103,
+      "est_tokens": 7525,
+      "file": "data/raw/PMC13064730.txt",
+      "fetched_at": "2026-05-16T07:37:03.106038"
+    },
+    {
+      "pmc_id": "13120911",
+      "title": "Ferroptosis and metabolic reprogramming in the immunosuppressive microenvironment of glioblastoma: emerging mechanisms and novel strategies",
+      "char_count": 108083,
+      "est_tokens": 27020,
+      "file": "data/raw/PMC13120911.txt",
+      "fetched_at": "2026-05-16T07:37:04.264674"
+    },
+    {
+      "pmc_id": "13154588",
+      "title": "The neuro-vascular-immune triad: the interactive network in the tumor microenvironment",
+      "char_count": 62655,
+      "est_tokens": 15663,
+      "file": "data/raw/PMC13154588.txt",
+      "fetched_at": "2026-05-16T07:37:06.175489"
+    },
+    {
+      "pmc_id": "13109055",
+      "title": "Genome and transcriptome-wide association studies identify multiple novel loci for dementia with grain in Japanese",
+      "char_count": 31698,
+      "est_tokens": 7924,
+      "file": "data/raw/PMC13109055.txt",
+      "fetched_at": "2026-05-16T07:37:07.778527"
+    },
+    {
+      "pmc_id": "13122569",
+      "title": "Multiscale metabolic covariance networks uncover stage\u2010specific biomarker signatures across the Alzheimer's disease continuum",
+      "char_count": 52044,
+      "est_tokens": 13011,
+      "file": "data/raw/PMC13122569.txt",
+      "fetched_at": "2026-05-16T07:37:09.403917"
+    },
+    {
+      "pmc_id": "13130379",
+      "title": "Comorbid cerebrovascular and neurodegenerative burden in mild behavioural impairment and their impact on clinical trajectory",
+      "char_count": 30682,
+      "est_tokens": 7670,
+      "file": "data/raw/PMC13130379.txt",
+      "fetched_at": "2026-05-16T07:37:10.358042"
+    },
+    {
+      "pmc_id": "12996118",
+      "title": "Diet, gut microbiome, and cognition in neurodegeneration: a review and methodological framework",
+      "char_count": 53127,
+      "est_tokens": 13281,
+      "file": "data/raw/PMC12996118.txt",
+      "fetched_at": "2026-05-16T07:37:12.109681"
+    },
+    {
+      "pmc_id": "13144494",
+      "title": "Human brain and organoid transcriptomes reveal key receptor tyrosine kinase pathways and genetic signatures in Alzheimer's disease",
+      "char_count": 49430,
+      "est_tokens": 12357,
+      "file": "data/raw/PMC13144494.txt",
+      "fetched_at": "2026-05-16T07:37:13.736327"
+    },
+    {
+      "pmc_id": "13170262",
+      "title": "Nanoplastics and Neurodegeneration: A Roadmap From Mechanism to Causation",
+      "char_count": 30824,
+      "est_tokens": 7706,
+      "file": "data/raw/PMC13170262.txt",
+      "fetched_at": "2026-05-16T07:37:14.654421"
+    },
+    {
+      "pmc_id": "13170779",
+      "title": "miR-223-3p promotes microglial lactylation and M1 polarization via the FBXW7/Notch1/Hes1/SIRT1 axis",
+      "char_count": 39051,
+      "est_tokens": 9762,
+      "file": "data/raw/PMC13170779.txt",
+      "fetched_at": "2026-05-16T07:37:15.595149"
+    },
+    {
+      "pmc_id": "12881069",
+      "title": "The association between a pro-inflammatory diet and brain age in middle-aged and older adults",
+      "char_count": 40606,
+      "est_tokens": 10151,
+      "file": "data/raw/PMC12881069.txt",
+      "fetched_at": "2026-05-16T07:37:17.212385"
+    },
+    {
+      "pmc_id": "13066729",
+      "title": "Osteoarthritis: Epidemiology, Pathogenesis, and Treatment",
+      "char_count": 193296,
+      "est_tokens": 48324,
+      "file": "data/raw/PMC13066729.txt",
+      "fetched_at": "2026-05-16T07:37:18.443198"
+    },
+    {
+      "pmc_id": "13082256",
+      "title": "Mesenchymal Stem Cells Derived Extracellular Vesicles in Inflammatory Bowel Disease: Therapeutic Efficacy and Bioengineering Applications",
+      "char_count": 88608,
+      "est_tokens": 22152,
+      "file": "data/raw/PMC13082256.txt",
+      "fetched_at": "2026-05-16T07:37:20.155320"
+    },
+    {
+      "pmc_id": "13164610",
+      "title": "The Gut Microbiota as a Mediator Linking the MIND Diet to Alzheimer\u2019s Disease",
+      "char_count": 67131,
+      "est_tokens": 16782,
+      "file": "data/raw/PMC13164610.txt",
+      "fetched_at": "2026-05-16T07:37:21.300584"
+    },
+    {
+      "pmc_id": "13150991",
+      "title": "Graphene field-effect transistor based multiplexed sensing platform for simultaneous detection of multiple Alzheimer's disease biomarkers",
+      "char_count": 25405,
+      "est_tokens": 6351,
+      "file": "data/raw/PMC13150991.txt",
+      "fetched_at": "2026-05-16T07:37:22.742192"
+    }
+  ]
+}

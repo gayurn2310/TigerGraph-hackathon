@@ -1,0 +1,142 @@
+[
+  {
+    "id": "q001",
+    "question": "What is the role of the APOE4 gene variant in Alzheimer's disease risk?",
+    "correct_answer": "The APOE4 allele is the strongest genetic risk factor for late-onset Alzheimer's disease. Carrying one copy increases risk 3-4 times, while two copies increases risk 8-12 times compared to the most common APOE3 variant. It influences amyloid-beta clearance and deposition in the brain.",
+    "type": "factual",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q002",
+    "question": "How does amyloid-beta accumulation lead to neuronal death in Alzheimer's disease?",
+    "correct_answer": "Amyloid-beta peptides aggregate into oligomers and plaques, disrupting synaptic function, triggering neuroinflammation through microglial activation, inducing oxidative stress, and impairing mitochondrial function, ultimately leading to neuronal apoptosis.",
+    "type": "mechanistic",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q003",
+    "question": "What was the primary outcome of the CLARITY AD clinical trial for lecanemab?",
+    "correct_answer": "The CLARITY AD phase 3 trial showed lecanemab reduced amyloid plaques and slowed clinical decline by 27% on the CDR-SB scale compared to placebo in early Alzheimer's disease patients, leading to FDA approval in 2023.",
+    "type": "clinical_trial",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q004",
+    "question": "Which biomarkers are used to diagnose Alzheimer's disease before symptoms appear?",
+    "correct_answer": "Key preclinical biomarkers include amyloid-beta 42/40 ratio in CSF or plasma, tau phosphorylation (p-tau 181, p-tau 217), neurofilament light chain (NfL), and amyloid PET imaging. These can detect pathology 15-20 years before symptom onset.",
+    "type": "factual",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q005",
+    "question": "How do tau tangles interact with amyloid plaques in the progression of Alzheimer's disease?",
+    "correct_answer": "Amyloid-beta accumulation is thought to trigger tau hyperphosphorylation and misfolding. Tau then spreads through the brain in a prion-like manner following the Braak staging pattern, propagating from the entorhinal cortex to the hippocampus and neocortex, causing neurodegeneration that correlates more directly with cognitive decline than amyloid burden alone.",
+    "type": "mechanistic",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q006",
+    "question": "What is the difference between familial and sporadic Alzheimer's disease?",
+    "correct_answer": "Familial Alzheimer's disease (FAD) is caused by autosomal dominant mutations in APP, PSEN1, or PSEN2 genes, typically presenting before age 65 (early-onset). Sporadic Alzheimer's accounts for over 95% of cases, has late onset, and involves complex interactions between genetic risk factors like APOE4 and environmental influences.",
+    "type": "factual",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q007",
+    "question": "Which researchers developed the amyloid cascade hypothesis and what evidence supports it?",
+    "correct_answer": "John Hardy and Gerald Higgins proposed the amyloid cascade hypothesis in 1992. Supporting evidence includes: Down syndrome patients with APP gene trisomy develop Alzheimer's pathology; PSEN1/2 mutations increase amyloid-beta 42 production; APOE4 impairs amyloid clearance; and anti-amyloid therapies like lecanemab and donanemab show clinical benefit.",
+    "type": "synthesis",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q008",
+    "question": "What are the main side effects of anti-amyloid immunotherapy treatments for Alzheimer's?",
+    "correct_answer": "The primary safety concern is ARIA (Amyloid-Related Imaging Abnormalities), which includes ARIA-E (edema/effusion) and ARIA-H (microhemorrhages). These occur in 20-35% of patients on lecanemab and donanemab, are usually asymptomatic, but can cause headache, confusion, or in rare cases serious neurological events. Risk is higher in APOE4 carriers.",
+    "type": "clinical",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q009",
+    "question": "How does neuroinflammation contribute to Alzheimer's disease progression?",
+    "correct_answer": "Microglia and astrocytes initially attempt to clear amyloid plaques but become chronically activated, releasing pro-inflammatory cytokines (IL-1β, TNF-α, IL-6) that damage neurons. TREM2 variants impair microglial function. Chronic neuroinflammation accelerates tau spread, synaptic loss, and neurodegeneration, making it a key therapeutic target.",
+    "type": "mechanistic",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q010",
+    "question": "What cognitive domains are affected first in Alzheimer's disease and in what order do they typically decline?",
+    "correct_answer": "Episodic memory (especially short-term memory for recent events) is typically affected first, reflecting early hippocampal damage. This is followed by semantic memory loss, language difficulties (anomia), visuospatial impairment, executive function decline, and eventually loss of procedural memory and basic daily functioning in advanced stages.",
+    "type": "clinical",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q011",
+    "question": "How do cholinesterase inhibitors like donepezil work to treat Alzheimer's symptoms?",
+    "correct_answer": "Donepezil inhibits acetylcholinesterase, the enzyme that breaks down acetylcholine in synapses. Since cholinergic neurons are among the first lost in Alzheimer's disease, inhibiting acetylcholine breakdown temporarily increases cholinergic transmission, modestly improving cognitive symptoms. It does not slow disease progression.",
+    "type": "mechanistic",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q012",
+    "question": "What is the relationship between sleep disruption and Alzheimer's disease development?",
+    "correct_answer": "During slow-wave sleep, the glymphatic system clears amyloid-beta from the brain. Chronic sleep deprivation impairs this clearance, leading to amyloid accumulation. Conversely, amyloid plaques disrupt sleep architecture, creating a bidirectional relationship. Poor sleep in midlife is now recognized as a modifiable risk factor for Alzheimer's.",
+    "type": "mechanistic",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q013",
+    "question": "Which institutions led the development of the Alzheimer's Disease Neuroimaging Initiative (ADNI) and what is its purpose?",
+    "correct_answer": "ADNI was launched in 2004 by the National Institute on Aging (NIA) and the Foundation for the NIH, coordinated by Michael Weiner at UCSF. Its purpose is to validate biomarkers (imaging, CSF, blood) for Alzheimer's clinical trials, establish standardized protocols, and share data openly to accelerate research.",
+    "type": "synthesis",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q014",
+    "question": "How does the gut-brain axis relate to Alzheimer's disease risk?",
+    "correct_answer": "Emerging research shows gut microbiome composition influences neuroinflammation and amyloid pathology through the vagus nerve and systemic immune signaling. Dysbiosis (gut microbial imbalance) correlates with higher amyloid burden in some studies. Short-chain fatty acids produced by gut bacteria have neuroprotective effects, suggesting diet and microbiome as potential modifiable risk factors.",
+    "type": "synthesis",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q015",
+    "question": "What lifestyle factors have been shown to reduce the risk of developing Alzheimer's disease?",
+    "correct_answer": "Evidence-based modifiable risk factors include: regular aerobic exercise (reduces amyloid burden, increases BDNF), Mediterranean diet adherence, managing cardiovascular risk factors (hypertension, diabetes, obesity), avoiding smoking, treating depression, maintaining social engagement, cognitive stimulation throughout life, and adequate sleep. The FINGER trial demonstrated that a multi-domain lifestyle intervention can preserve cognitive function.",
+    "type": "clinical",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q016",
+    "question": "What is the Braak staging system and how does it describe Alzheimer's progression?",
+    "correct_answer": "The Braak staging system (stages I-VI) describes the hierarchical spread of neurofibrillary tau tangles through the brain. Stages I-II: tangles confined to the transentorhinal cortex. Stages III-IV: spread to the hippocampus and limbic system (correlates with mild cognitive impairment). Stages V-VI: neocortical involvement correlating with dementia. This staging guides pathological diagnosis and tracks disease progression.",
+    "type": "factual",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q017",
+    "question": "How does donanemab compare to lecanemab in treating early Alzheimer's disease?",
+    "correct_answer": "Both are anti-amyloid monoclonal antibodies that reduce plaques, but they target different amyloid forms (donanemab targets pyroglutamate amyloid-beta, lecanemab targets soluble protofibrils). The TRAILBLAZER-ALZ 2 trial showed donanemab slowed decline by 35% on iADRS in patients with low-medium tau. Both carry ARIA risks; donanemab notably allows treatment discontinuation after amyloid clearance.",
+    "type": "clinical_trial",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q018",
+    "question": "What is the significance of the presenilin 1 (PSEN1) mutation in early-onset familial Alzheimer's disease?",
+    "correct_answer": "PSEN1 mutations are the most common cause of early-onset familial Alzheimer's disease, accounting for about 50% of cases. PSEN1 encodes part of the gamma-secretase complex that cleaves APP; mutations shift cleavage to produce more amyloid-beta 42 (the more aggregation-prone form), causing disease onset often in the 40s or 50s with near 100% penetrance.",
+    "type": "factual",
+    "requires_multi_hop": false
+  },
+  {
+    "id": "q019",
+    "question": "How are blood-based biomarkers changing the landscape of Alzheimer's diagnosis and clinical trials?",
+    "correct_answer": "Plasma p-tau217 and p-tau181 assays can now detect Alzheimer's pathology with accuracy approaching PET imaging (AUC >90%), enabling scalable, low-cost screening. This is transforming clinical trials by enabling larger, pre-screened populations and remote monitoring. The Alzheimer's Association updated diagnostic criteria in 2024 to incorporate blood biomarkers as primary diagnostic tools.",
+    "type": "synthesis",
+    "requires_multi_hop": true
+  },
+  {
+    "id": "q020",
+    "question": "What is the connection between Type 2 diabetes and Alzheimer's disease risk?",
+    "correct_answer": "Type 2 diabetes increases Alzheimer's risk 2-fold. Insulin resistance impairs insulin signaling in the brain, reducing neuronal glucose metabolism and increasing amyloid-beta production and tau phosphorylation. Hyperinsulinemia competes with amyloid-beta for insulin-degrading enzyme. Some researchers describe Alzheimer's as 'Type 3 diabetes.' GLP-1 receptor agonists like semaglutide are under investigation as potential neuroprotective agents.",
+    "type": "mechanistic",
+    "requires_multi_hop": true
+  }
+]
